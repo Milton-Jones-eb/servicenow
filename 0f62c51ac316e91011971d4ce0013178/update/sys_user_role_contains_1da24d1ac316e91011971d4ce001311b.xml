@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_ebh_bill_report.user" name="x_ebh_bill_report.user">c762c51ac316e91011971d4ce0013191</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-21 13:04:10</sys_created_on>
+        <sys_id>1da24d1ac316e91011971d4ce001311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_ebh_bill_report.user</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_user_role_contains_1da24d1ac316e91011971d4ce001311b</sys_update_name>
+        <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-21 13:04:10</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_ebh_bill_report_bill_reports</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>Bill Report Search Profile Default Spell Check Dictionary</label>
+        <last_derived>2023-06-09 08:26:57</last_derived>
+        <locale>en</locale>
+        <name>x_ebh_bill_report_bill_report_search_profile_default_spell_check_dictionary</name>
+        <publish_id>fabf9122-18e6-4a21-a7e3-1f8407a25228</publish_id>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-21 13:04:12</sys_created_on>
+        <sys_id>35a24d1ac316e91011971d4ce001315c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ebh_bill_report_bill_report_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>ais_dictionary_35a24d1ac316e91011971d4ce001315c</sys_update_name>
+        <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-21 13:04:12</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

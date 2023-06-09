@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Built Report Dashboa - New Tab">2e1fd660c366a15011971d4ce0013149</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2023-04-30 11:40:33">b4f5e4d9c3e2255011971d4ce00131e3</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-30 18:40:33</sys_created_on>
+        <sys_id>b0f5e41dc3e2255011971d4ce001313f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2e1fd660c366a15011971d4ce0013149</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_b0f5e41dc3e2255011971d4ce001313f</sys_update_name>
+        <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-30 18:40:33</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sys_grid_canvas_pane_b0f5e41dc3e2255011971d4ce001313f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Built Report Dashboa - New Tab">2e1fd660c366a15011971d4ce0013149</grid_canvas><height>10</height><portal_widget display_value="Created 2023-04-30 11:40:33">b4f5e4d9c3e2255011971d4ce00131e3</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>roberto.garcia@employbridge.com</sys_created_by><sys_created_on>2023-04-30 18:40:33</sys_created_on><sys_id>b0f5e41dc3e2255011971d4ce001313f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2e1fd660c366a15011971d4ce0013149</sys_name><sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>sys_grid_canvas_pane_b0f5e41dc3e2255011971d4ce001313f</sys_update_name><sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by><sys_updated_on>2023-04-30 18:40:33</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-2135841062</payload_hash>
+        <record_name>2e1fd660c366a15011971d4ce0013149</record_name>
+        <reverted_from/>
+        <source>8362c51ac316e91011971d4ce001317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-30 18:40:33</sys_created_on>
+        <sys_id>fcf5e41dc3e2255011971d4ce0013140</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187d37774830000001</sys_recorded_at>
+        <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-30 18:40:33</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>f4f5e41df0e225505ba5dc07ad00ba40</update_guid>
+        <update_guid_history>f4f5e41df0e225505ba5dc07ad00ba40:-2135841062</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-30 18:41:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>0dd2879a98de41b096f6636fe2f71e40</sys_id>
+        <sys_metadata>b0f5e41dc3e2255011971d4ce001313f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2e1fd660c366a15011971d4ce0013149</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_b0f5e41dc3e2255011971d4ce001313f</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_b0f5e41dc3e2255011971d4ce001313f">fcf5e41dc3e2255011971d4ce0013140</sys_update_version>
+        <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-30 18:41:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Home">d8a2c91a4516e910c9ac65915fedbced</macroponent>
+        <name>Form on mount</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    console.log(api.data.glide_form_1);
+    // const g_form = api.data.glide_form_1.nowRecordFormBlob.gForm;
+    // console.log(g_form);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-25 00:00:44</sys_created_on>
+        <sys_id>28b5b61fc35aad1011971d4ce0013175</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Form on mount</sys_name>
+        <sys_package display_value="Bill Report" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bill Report">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_ux_client_script_28b5b61fc35aad1011971d4ce0013175</sys_update_name>
+        <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-25 00:08:40</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sys_ux_client_script_28b5b61fc35aad1011971d4ce0013175</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Home"&gt;d8a2c91a4516e910c9ac65915fedbced&lt;/macroponent&gt;&lt;name&gt;Form on mount&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    console.log(api.data.glide_form_1);
+    // const g_form = api.data.glide_form_1.nowRecordFormBlob.gForm;
+    // console.log(g_form);
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;bryan.rodriguez@employbridge.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-25 00:00:44&lt;/sys_created_on&gt;&lt;sys_id&gt;28b5b61fc35aad1011971d4ce0013175&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;Form on mount&lt;/sys_name&gt;&lt;sys_package display_value="Bill Report" source="x_ebh_bill_report"&gt;0f62c51ac316e91011971d4ce0013178&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Bill Report"&gt;0f62c51ac316e91011971d4ce0013178&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_28b5b61fc35aad1011971d4ce0013175&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;bryan.rodriguez@employbridge.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-25 00:08:40&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;default&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2033404563</payload_hash>
+        <record_name>Form on mount</record_name>
+        <reverted_from/>
+        <source>8362c51ac316e91011971d4ce001317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-25 00:08:41</sys_created_on>
+        <sys_id>b087f69fc35aad1011971d4ce0013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187b5bdb4a00000001</sys_recorded_at>
+        <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-25 00:08:41</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>7887f69fa15aad10d9ea8b17e6b1e616</update_guid>
+        <update_guid_history>7887f69fa15aad10d9ea8b17e6b1e616:-2033404563,55a6f65f825aad10bfe6fc9f2b5a9ba1:664126803,dd96ba5f6c5aad10caec4098f8fe6672:-1576312553,16863a5f615aad10efcd299f074d58e9:-1304485437,5c06325ffa5aad10a00e0a4cbdd0e75e:585044968,68e53e1f135aad10c771cc45f07af1eb:1533479474,84e53e1fdb5aad105207ab1093d4df79:-1967786041,74d53a1ffe5aad1054ad84219d13dd6c:655854335,a0b5b61f4f5aad1067a3fc9786328e7a:-704446117</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-25 03:41:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>1c7bf161b7f34080b1497742a0ff3e84</sys_id>
+        <sys_metadata>28b5b61fc35aad1011971d4ce0013175</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Form on mount</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_28b5b61fc35aad1011971d4ce0013175</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_28b5b61fc35aad1011971d4ce0013175">b087f69fc35aad1011971d4ce0013117</sys_update_version>
+        <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-25 03:41:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="market_information" table="x_ebh_bill_report_bill_reports" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>market_information</element>
+            <name>x_ebh_bill_report_bill_reports</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 13:16:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>market_information</sys_name>
+            <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+            <sys_update_name>sys_choice_x_ebh_bill_report_bill_reports_market_information</sys_update_name>
+            <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 13:16:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
