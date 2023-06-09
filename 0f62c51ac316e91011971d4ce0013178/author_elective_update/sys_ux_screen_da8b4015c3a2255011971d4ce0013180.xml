@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>false</active>
+        <app_config display_value="Built Report Config">98a2c91ad416e91004d7f073a757c0ef</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "clgwdkiigjjaaykccddbhhsyiixjjeoiis",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_ebh_bill_report.NAV_ITEM_SELECTED_RELAY_1f9eb96bc3d2ed1011971d4ce001317a",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "x_ebh_bill_report.NAV_ITEM_SELECTED_RELAY_1f9eb96bc3d2ed1011971d4ce001317a",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "route" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "route" ]
+            }
+          },
+          "fields" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fields" ]
+            }
+          },
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          },
+          "redirect" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "redirect" ]
+            }
+          },
+          "passiveNavigation" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "passiveNavigation" ]
+            }
+          },
+          "title" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "title" ]
+            }
+          },
+          "multiInstField" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "multiInstField" ]
+            }
+          },
+          "targetRoute" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "targetRoute" ]
+            }
+          },
+          "external" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "external" ]
+            }
+          }
+        }
+      },
+      "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
+    },
+    "operation" : null,
+    "targetId" : "clgwdkiigiiaaykbbddbhhsozxqweeny",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Blank record page">128b0015c3a2255011971d4ce001314f</macroponent>
+        <macroponent_config>{
+  "views" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "selectedTabIndex" : {
+    "type" : "JSON_LITERAL",
+    "value" : 0
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Home default Copy</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Home">d79eb96bc3d2ed1011971d4ce0013178</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-30 16:45:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da8b4015c3a2255011971d4ce0013180</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home default Copy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_ux_screen_da8b4015c3a2255011971d4ce0013180</sys_update_name>
+        <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-30 16:45:09</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=da8b4015c3a2255011971d4ce0013180"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sys_ux_screen_da8b4015c3a2255011971d4ce0013180</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>false</active><app_config display_value="Built Report Config">98a2c91ad416e91004d7f073a757c0ef</app_config><description/><event_mappings>[ {
+  "eventMappingId" : "clgwdkiigjjaaykccddbhhsyiixjjeoiis",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_ebh_bill_report.NAV_ITEM_SELECTED_RELAY_1f9eb96bc3d2ed1011971d4ce001317a",
+  "sourceEventCorrelationId" : null,
+  "sourceEventDefinition" : {
+    "apiName" : "x_ebh_bill_report.NAV_ITEM_SELECTED_RELAY_1f9eb96bc3d2ed1011971d4ce001317a",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "conditional" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_canvas_core.NAV_ITEM_SELECTED",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "route" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "route" ]
+            }
+          },
+          "fields" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "fields" ]
+            }
+          },
+          "params" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "params" ]
+            }
+          },
+          "redirect" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "redirect" ]
+            }
+          },
+          "passiveNavigation" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "passiveNavigation" ]
+            }
+          },
+          "title" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "title" ]
+            }
+          },
+          "multiInstField" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "multiInstField" ]
+            }
+          },
+          "targetRoute" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "targetRoute" ]
+            }
+          },
+          "external" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "external" ]
+            }
+          }
+        }
+      },
+      "sysId" : "8b82bf18e5276c8e423b6e4e0889b463"
+    },
+    "operation" : null,
+    "targetId" : "clgwdkiigiiaaykbbddbhhsozxqweeny",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings><macroponent display_value="Blank record page">128b0015c3a2255011971d4ce001314f</macroponent><macroponent_config>{
+  "views" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "selectedTabIndex" : {
+    "type" : "JSON_LITERAL",
+    "value" : 0
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config><name>Home default Copy</name><order>0</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Home">d79eb96bc3d2ed1011971d4ce0013178</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>roberto.garcia@employbridge.com</sys_created_by><sys_created_on>2023-04-30 16:45:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>da8b4015c3a2255011971d4ce0013180</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Home default Copy</sys_name><sys_overrides/><sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>sys_ux_screen_da8b4015c3a2255011971d4ce0013180</sys_update_name><sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by><sys_updated_on>2023-04-30 16:45:09</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=da8b4015c3a2255011971d4ce0013180"/></record_update>]]></payload>
+        <payload_hash>882530811</payload_hash>
+        <record_name>Home default Copy</record_name>
+        <reverted_from/>
+        <source>8362c51ac316e91011971d4ce001317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-30 16:45:09</sys_created_on>
+        <sys_id>da8b4015c3a2255011971d4ce0013183</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187d30dcd270000001</sys_recorded_at>
+        <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-30 16:45:09</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>d28b4015f6a225506161785e827ba983</update_guid>
+        <update_guid_history>d28b4015f6a225506161785e827ba983:882530811</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-30 16:45:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>2a40b16c351043ecb3c0c0848a588801</sys_id>
+        <sys_metadata>da8b4015c3a2255011971d4ce0013180</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home default Copy</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_da8b4015c3a2255011971d4ce0013180</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_da8b4015c3a2255011971d4ce0013180">da8b4015c3a2255011971d4ce0013183</sys_update_version>
+        <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-30 16:45:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

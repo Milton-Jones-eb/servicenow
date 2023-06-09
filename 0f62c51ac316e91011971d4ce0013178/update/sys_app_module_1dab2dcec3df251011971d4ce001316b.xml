@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Office of the CRO - Apps">6c46e92dc3a2655011971d4ce001310d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Market Share and AOA Collection</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>200</order>
+        <override_menu_roles>true</override_menu_roles>
+        <query>https://employbridgedev.service-now.com/x_ebh_bill_report_competitors_aoa_list.do</query>
+        <report/>
+        <roles>x_ebh_bill_report.admin,EB_ServiceNow_HIAdmin,admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-06-09 14:29:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1dab2dcec3df251011971d4ce001316b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Market Share Competitor AOA Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_app_module_1dab2dcec3df251011971d4ce001316b</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-06-09 16:44:28</sys_updated_on>
+        <timeline_page/>
+        <title>Market Share Competitor AOA Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>window.open()</window_name>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Self-Service">2ca1af7a0a0a0b58001e850528fbee73</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>AOA report</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://employbridgedev.service-now.com/x/ebh/built-report/new</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-28 20:23:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5dc96ae8c366a15011971d4ce001310a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AOA report</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Built Report" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Built Report">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_app_module_5dc96ae8c366a15011971d4ce001310a</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-28 20:24:03</sys_updated_on>
+        <timeline_page/>
+        <title>AOA report</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sys_app_module_5dc96ae8c366a15011971d4ce001310a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Self-Service">2ca1af7a0a0a0b58001e850528fbee73</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>AOA report</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query>https://employbridgedev.service-now.com/x/ebh/built-report/new</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>mohammad.raza@employbridge.com</sys_created_by><sys_created_on>2023-04-28 20:23:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5dc96ae8c366a15011971d4ce001310a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>AOA report</sys_name><sys_overrides/><sys_package display_value="Built Report" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Built Report">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>sys_app_module_5dc96ae8c366a15011971d4ce001310a</sys_update_name><sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by><sys_updated_on>2023-04-28 20:24:03</sys_updated_on><timeline_page/><title>AOA report</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1214090902</payload_hash>
+        <record_name>AOA report</record_name>
+        <reverted_from/>
+        <source>84b8223ec30f255011971d4ce00131ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-28 20:24:03</sys_created_on>
+        <sys_id>157a26e8c366a15011971d4ce0013152</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>187c9897e610000001</sys_recorded_at>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-05-30 18:21:26</sys_updated_on>
+        <type>Module</type>
+        <update_guid>997a26e86166a1509803834d6c5e2651</update_guid>
+        <update_guid_history>997a26e86166a1509803834d6c5e2651:1214090902,e23ae2e8e166a150477f1366b87a754f:-1345186868</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="AOA report">367ce22cc366a15011971d4ce00131ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-28 20:32:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5bda5fc385754fa0b1a2e0b7d3fd6df9</sys_id>
+        <sys_metadata>5dc96ae8c366a15011971d4ce001310a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AOA report</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sys_app_module_5dc96ae8c366a15011971d4ce001310a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5dc96ae8c366a15011971d4ce001310a">157a26e8c366a15011971d4ce0013152</sys_update_version>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-28 20:32:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

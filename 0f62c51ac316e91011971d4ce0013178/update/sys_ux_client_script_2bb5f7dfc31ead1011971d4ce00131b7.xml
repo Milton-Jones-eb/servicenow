@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Home">d8a2c91a4516e910c9ac65915fedbced</macroponent>
+        <name>Add competitor</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[// Add competitor
+function handler({ api, event, helpers, imports }) {
+  const payload = {"competitor_aoa_count": null, "competitor": null};
+    api.setState("competitors_data", api.state.competitors_data.concat(payload));
+
+
+  // const g_form = api.data.glide_form_1.nowRecordFormBlob.gForm;
+  // const bill_report_sys_id = api.data.glide_form_1.nowRecordFormBlob.sysId;
+  // const competitors_values = g_form.getValue("competitors_aoa");
+
+  // // Create "competitors aoa" record
+  // const template_fields = `
+	// 	bill_report_sys_id=${bill_report_sys_id}
+	// `.replace(/  |\r\n|\n|\r/gm, ""); // Trim indents and new lines
+
+  // api.data.create_competitor_aoa_record.execute({
+  //   table: "x_ebh_bill_report_competitors_aoa",
+  //   templateFields: template_fields,
+  // });
+}
+
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-25 04:40:35</sys_created_on>
+        <sys_id>2bb5f7dfc31ead1011971d4ce00131b7</sys_id>
+        <sys_mod_count>36</sys_mod_count>
+        <sys_name>Add competitor</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_ux_client_script_2bb5f7dfc31ead1011971d4ce00131b7</sys_update_name>
+        <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-05-31 14:45:35</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

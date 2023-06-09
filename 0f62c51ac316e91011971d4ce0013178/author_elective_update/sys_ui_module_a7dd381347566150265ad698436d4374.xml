@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="RevenueOpportunityReport">2fdd381347566150265ad698436d4371</application>
+        <filter/>
+        <name>RevenueOpportunityReports</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_ebh_bill_report.revenueopportunityreport_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-24 15:17:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7dd381347566150265ad698436d4374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RevenueOpportunityReports</sys_name>
+        <sys_package display_value="Bill Report" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bill Report">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_ui_module_a7dd381347566150265ad698436d4374</sys_update_name>
+        <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-24 15:17:13</sys_updated_on>
+        <table>x_ebh_bill_report_revenueopportunityreport</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sys_ui_module_a7dd381347566150265ad698436d4374</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="RevenueOpportunityReport">2fdd381347566150265ad698436d4371</application><filter/><name>RevenueOpportunityReports</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_ebh_bill_report.revenueopportunityreport_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-24 15:17:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a7dd381347566150265ad698436d4374</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RevenueOpportunityReports</sys_name><sys_package display_value="Bill Report" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Bill Report">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>sys_ui_module_a7dd381347566150265ad698436d4374</sys_update_name><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-24 15:17:13</sys_updated_on><table>x_ebh_bill_report_revenueopportunityreport</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1541440869</payload_hash>
+        <record_name>RevenueOpportunityReports</record_name>
+        <reverted_from/>
+        <source>8362c51ac316e91011971d4ce001317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-24 15:17:13</sys_created_on>
+        <sys_id>afdd381347566150265ad698436d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187b3d721a80000001</sys_recorded_at>
+        <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-24 15:17:13</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a7dd38132e566150437d6546f2cbda76</update_guid>
+        <update_guid_history>a7dd38132e566150437d6546f2cbda76:1541440869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+        <sys_created_on>2023-05-01 15:54:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>07cf6a3b3d06466f8acca890739fbe91</sys_id>
+        <sys_metadata>a7dd381347566150265ad698436d4374</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RevenueOpportunityReports</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sys_ui_module_a7dd381347566150265ad698436d4374</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_a7dd381347566150265ad698436d4374">afdd381347566150265ad698436d4376</sys_update_version>
+        <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-05-01 15:54:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

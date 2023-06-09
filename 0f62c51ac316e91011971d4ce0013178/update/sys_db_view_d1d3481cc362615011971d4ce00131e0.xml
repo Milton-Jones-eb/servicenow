@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view">
+    <sys_db_view action="INSERT_OR_UPDATE">
+        <description/>
+        <label>AOA Count</label>
+        <name>x_ebh_bill_report_aoa_count</name>
+        <plural>AOA Counts</plural>
+        <sys_class_name>sys_db_view</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-27 13:37:57</sys_created_on>
+        <sys_id>d1d3481cc362615011971d4ce00131e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ebh_bill_report_aoa_count</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_db_view_d1d3481cc362615011971d4ce00131e0</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-27 13:37:57</sys_updated_on>
+    </sys_db_view>
+</record_update>

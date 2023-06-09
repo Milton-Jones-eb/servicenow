@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_ebh_bill_report_bill_reports" version="2" view="RPT45605ad2c35ae91011971d4ce001318f">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>b7d46256c39ae91011971d4ce0013156</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cai_entry_date</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>bbd46256c39ae91011971d4ce0013156</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>bfd46256c39ae91011971d4ce0013156</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cai_account_client_name</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>b3d46256c39ae91011971d4ce0013157</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cai_account_number</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>b7d46256c39ae91011971d4ce0013157</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cai_account_type</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>bbd46256c39ae91011971d4ce0013157</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_integer_1</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>bfd46256c39ae91011971d4ce0013157</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>competitors</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>b3d46256c39ae91011971d4ce0013158</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>coi_additional_competitor_info</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>b7d46256c39ae91011971d4ce0013158</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mi_branch</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>bbd46256c39ae91011971d4ce0013158</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mi_city</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>bfd46256c39ae91011971d4ce0013158</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mi_market</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>b3d46256c39ae91011971d4ce0013159</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mi_region</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>b7d46256c39ae91011971d4ce0013159</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mi_area</element>
+            <list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_id>bbd46256c39ae91011971d4ce0013159</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_ebh_bill_report_bill_reports</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bbd46256c39ae91011971d4ce0013155</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ebh_bill_report_bill_reports</sys_name>
+            <sys_package display_value="Bill Report" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bill Report">0f62c51ac316e91011971d4ce0013178</sys_scope>
+            <sys_update_name>sys_ui_list_x_ebh_bill_report_bill_reports_RPT45605ad2c35ae91011971d4ce001318f</sys_update_name>
+            <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt45605ad2c35ae91011971d4ce001318f" name="RPT45605ad2c35ae91011971d4ce001318f">c9609ed2c35ae91011971d4ce001310d</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sys_ui_list_x_ebh_bill_report_bill_reports_RPT45605ad2c35ae91011971d4ce001318f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_ebh_bill_report_bill_reports" version="2" view="RPT45605ad2c35ae91011971d4ce001318f"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>b7d46256c39ae91011971d4ce0013156</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>cai_entry_date</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>bbd46256c39ae91011971d4ce0013156</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_by</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>bfd46256c39ae91011971d4ce0013156</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>cai_account_client_name</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>b3d46256c39ae91011971d4ce0013157</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>cai_account_number</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>b7d46256c39ae91011971d4ce0013157</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>cai_account_type</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>bbd46256c39ae91011971d4ce0013157</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>u_integer_1</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>bfd46256c39ae91011971d4ce0013157</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>competitors</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>b3d46256c39ae91011971d4ce0013158</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>coi_additional_competitor_info</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>b7d46256c39ae91011971d4ce0013158</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mi_branch</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>9</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>bbd46256c39ae91011971d4ce0013158</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mi_city</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>10</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>bfd46256c39ae91011971d4ce0013158</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mi_market</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>11</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>b3d46256c39ae91011971d4ce0013159</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mi_region</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>12</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>b7d46256c39ae91011971d4ce0013159</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>mi_area</element><list_id display_value="x_ebh_bill_report_bill_reports" element="NULL" name="x_ebh_bill_report_bill_reports" parent="NULL" relationship="NULL" sys_domain="global" view="c9609ed2c35ae91011971d4ce001310d">bbd46256c39ae91011971d4ce0013155</list_id><max_value>false</max_value><min_value>false</min_value><position>13</position><sum>false</sum><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_id>bbd46256c39ae91011971d4ce0013159</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_ebh_bill_report_bill_reports</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by><sys_created_on>2023-04-21 20:13:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bbd46256c39ae91011971d4ce0013155</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_ebh_bill_report_bill_reports</sys_name><sys_package display_value="Bill Report" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Bill Report">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>sys_ui_list_x_ebh_bill_report_bill_reports_RPT45605ad2c35ae91011971d4ce001318f</sys_update_name><sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by><sys_updated_on>2023-04-21 20:13:19</sys_updated_on><sys_user/><view display_value="Rpt45605ad2c35ae91011971d4ce001318f" name="RPT45605ad2c35ae91011971d4ce001318f">c9609ed2c35ae91011971d4ce001310d</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1721631751</payload_hash>
+        <record_name>Bill Reports</record_name>
+        <reverted_from/>
+        <source>8362c51ac316e91011971d4ce001317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-21 20:13:19</sys_created_on>
+        <sys_id>c0e46256c39ae91011971d4ce001315d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187a57326af0000001</sys_recorded_at>
+        <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-21 20:13:19</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>88e46256519ae9102c916731e9bc085c</update_guid>
+        <update_guid_history>88e46256519ae9102c916731e9bc085c:-1721631751,38d422561a9ae9108e0d0708236acd7f:-1556824283,16c4ee167d9ae910010b71280e61b6cb:730393055,554b925e805ae910e084010d676205f6:1667074725,0d3b525edc5ae910e47f03a38d82049f:-720234960,fa8a1a1e065ae910b11deb9abc2a0e93:-542672870,eef9921eee5ae9106523d49737bbd72d:212654291,16f9521e375ae9101a4e513cb99249fa:-286901145,10751a1a735ae9107a64406f26a0b247:-2007813189,0f35561a4b5ae9106bd784c947eb88b2:-1525952559,9864dad6c35ae910aa3ca62db6b978dc:-718322615,f1a0d216345ae910ccc23b97514b59d0:773316383,05609ed2205ae910e7c9d9573d75fd14:-990669189</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-21 20:15:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>356ffe32b161408a8d42c73a3d4b38e4</sys_id>
+        <sys_metadata>bbd46256c39ae91011971d4ce0013155</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ebh_bill_report_bill_reports</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent display_value="x_ebh_bill_report_bill_reports">8a1a41dec316e91011971d4ce00131da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_ebh_bill_report_bill_reports_RPT45605ad2c35ae91011971d4ce001318f</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_ebh_bill_report_bill_reports_RPT45605ad2c35ae91011971d4ce001318f">c0e46256c39ae91011971d4ce001315d</sys_update_version>
+        <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-04-21 20:15:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

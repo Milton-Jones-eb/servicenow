@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e7caed53c396ad1011971d4ce0013127" label="Competitors" max_length="40" name="x_ebh_bill_report_competitors" type="collection">
+        <element label="id" max_length="40" name="id" type="string"/>
+        <element display="true" label="label" max_length="40" name="label" type="string"/>
+    </element>
+</database>

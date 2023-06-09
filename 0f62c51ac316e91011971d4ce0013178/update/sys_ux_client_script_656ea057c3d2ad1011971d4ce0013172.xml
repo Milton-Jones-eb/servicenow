@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Home">d8a2c91a4516e910c9ac65915fedbced</macroponent>
+        <name>Submit form</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[// Submit form
+function handler({ api, event, helpers, imports }) {
+  const { competitors_data } = api.state;
+  const g_form = api.data.glide_form_1.nowRecordFormBlob.gForm;
+  const incSysid = g_form.getUniqueValue();
+  competitors_data.forEach((datum) => {
+    const query = createBillReportQuery(datum, incSysid);
+    updateTable(query);
+  });
+
+  // const areFieldsValid = areMandatoryFieldsFilled(g_form);
+  // const bill_report_sys_id = api.data.glide_form_1.nowRecordFormBlob.sysId;
+
+  // Trigger save function
+  // g_form.save();
+
+  // If the save event failed skip realoading and send error message
+  // if (!areFieldsValid) return alert("critical", "Important: Please fill out all required fields indicated with an asterisk (*) before submitting.");
+  alert("positive", "Your form was submited");
+
+  // Save
+  // g_form.save();
+
+  // Clean state
+  clear();
+
+   function createBillReportQuery(object, sys_id) {
+    return Object.keys(object)
+      // Filter out any fields with falsy values
+      .filter((item) => !!object[item]) 
+      // Create an array of key=value pairs
+      .map((key) => `${key}=${object[key]}`) 
+      // Add the sys_id to the array
+      .concat(`bill_report_sys_id=${sys_id}`) 
+      .join("^"); // Join the array with "^" to create the query string
+  }
+
+  function updateTable(templateFields) {
+    const TABLE_NAME = "x_ebh_bill_report_competitors_aoa";
+    const command = {
+      table: TABLE_NAME,
+      templateFields,
+      useSetDisplayValue: false,
+    };
+    console.log ({ command });
+    api.data.create_competitor_aoa_record.execute(command);
+  }
+
+  // ("critical" | "high" | "moderate" | "warning" | "info" | "positive" | "low")
+  function alert(type, message) {
+    api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+      items: [
+        {
+          id: "alert1",
+          status: type,
+          content: {
+            type: "html",
+            value: message,
+          },
+          action: {
+            type: "dismiss",
+          },
+        },
+      ],
+    });
+  }
+
+  function clear() {
+    api.setState("competitors_data", []);
+    // g_form.reload(); // Doesn't work.
+    api.setState("form_sys_id", null);
+  }
+}
+]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+        <sys_created_on>2023-04-24 14:09:38</sys_created_on>
+        <sys_id>656ea057c3d2ad1011971d4ce0013172</sys_id>
+        <sys_mod_count>120</sys_mod_count>
+        <sys_name>Submit form</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_ux_client_script_656ea057c3d2ad1011971d4ce0013172</sys_update_name>
+        <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-06-05 18:34:09</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

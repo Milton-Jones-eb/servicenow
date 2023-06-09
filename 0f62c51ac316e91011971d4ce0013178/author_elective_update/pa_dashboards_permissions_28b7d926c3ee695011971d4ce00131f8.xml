@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="DELETE">
+        <dashboard display_value="AOA Dashboard">28de5ea0c366a15011971d4ce001317c</dashboard>
+        <delete>false</delete>
+        <group display_value="Market Share-AOA Collection Tool Admin" name="Market Share-AOA Collection Tool Admin">fd2881ecc322a15011971d4ce0013127</group>
+        <identity>fd2881ecc322a15011971d4ce0013127</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-05-04 19:30:18</sys_created_on>
+        <sys_id>28b7d926c3ee695011971d4ce00131f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd2881ecc322a15011971d4ce0013127</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_28b7d926c3ee695011971d4ce00131f8</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-05-04 19:30:18</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>true</write>
+    </pa_dashboards_permissions>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>pa_dashboards_permissions_28b7d926c3ee695011971d4ce00131f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions"><pa_dashboards_permissions action="INSERT_OR_UPDATE"><dashboard display_value="AOA Dashboard">28de5ea0c366a15011971d4ce001317c</dashboard><delete>false</delete><group display_value="Market Share-AOA Collection Tool Admin" name="Market Share-AOA Collection Tool Admin">fd2881ecc322a15011971d4ce0013127</group><identity>fd2881ecc322a15011971d4ce0013127</identity><read>true</read><role/><sys_class_name>pa_dashboards_permissions</sys_class_name><sys_created_by>mohammad.raza@employbridge.com</sys_created_by><sys_created_on>2023-05-04 19:30:18</sys_created_on><sys_id>28b7d926c3ee695011971d4ce00131f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>fd2881ecc322a15011971d4ce0013127</sys_name><sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>pa_dashboards_permissions_28b7d926c3ee695011971d4ce00131f8</sys_update_name><sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by><sys_updated_on>2023-05-04 19:30:18</sys_updated_on><type>2</type><user/><write>true</write></pa_dashboards_permissions></record_update>]]></payload>
+        <payload_hash>-228617747</payload_hash>
+        <record_name>fd2881ecc322a15011971d4ce0013127</record_name>
+        <reverted_from/>
+        <source>84b8223ec30f255011971d4ce00131ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-05-04 19:30:18</sys_created_on>
+        <sys_id>24b7d926c3ee695011971d4ce00131fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>187e83e70010000001</sys_recorded_at>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-05-30 18:18:34</sys_updated_on>
+        <type>Dashboard Permissions</type>
+        <update_guid>2cb7d926c5ee6950ada3170b1f1d62f9</update_guid>
+        <update_guid_history>2cb7d926c5ee6950ada3170b1f1d62f9:-228617747</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="fd2881ecc322a15011971d4ce0013127">8e0495b8c37a611011971d4ce0013134</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-05-11 19:00:37</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards_permissions">pa_dashboards_permissions</sys_db_object>
+        <sys_id>785ce664570b4773af64701b14e7a4b1</sys_id>
+        <sys_metadata>28b7d926c3ee695011971d4ce00131f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd2881ecc322a15011971d4ce0013127</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>pa_dashboards_permissions_28b7d926c3ee695011971d4ce00131f8</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_permissions_28b7d926c3ee695011971d4ce00131f8">24b7d926c3ee695011971d4ce00131fa</sys_update_version>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-05-11 19:00:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
