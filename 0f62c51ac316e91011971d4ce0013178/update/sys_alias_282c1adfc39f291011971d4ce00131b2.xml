@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_ebh_bill_report.Test_Pipeline_Alias_Credential</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Test Pipeline Alias Credential</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>Milton.Jones@employbridge.com</sys_created_by>
+        <sys_created_on>2023-06-13 15:12:09</sys_created_on>
+        <sys_id>282c1adfc39f291011971d4ce00131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ebh_bill_report.Test_Pipeline_Alias_Credential</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_alias_282c1adfc39f291011971d4ce00131b2</sys_update_name>
+        <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-06-13 15:12:09</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
