@@ -6,44 +6,60 @@
         <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[/**
-* @param {params} params 
-* @param {api} params.api
-* @param {any} params.event
-* @param {any} params.imports
-* @param {ApiHelpers} params.helpers
-*/
-function handler({api, event, helpers, imports}) {
-
+ * Updates the total AOA count on a Glide form by summing up the AOA counts of all competitors and adding it to the count of the current record.
+ * @param {Object} params - An object containing the necessary parameters for the function.
+ * @param {Object} params.api - The Glide API object.
+ * @param {Object} params.event - The Glide event object.
+ * @param {Object} params.helpers - The Glide helpers object.
+ * @param {Object} params.imports - The Glide imports object.
+ */
+function handler({ api, event, helpers, imports }) {
+  // Get the current Glide form
   const g_form = api.data.glide_form_1.nowRecordFormBlob.gForm;
+
+  // Calculate the total AOA count of all competitors
   const total = calculateCompetitorAoaCountSum(api.state.competitors_data);
-  const eb_aoa_count = Number(g_form.getValue("eb_aoa_count"))
-  console.log ({ total, eb_aoa_count })
-  g_form.setValue('u_total', total + eb_aoa_count);
+
+  // Get the AOA count of the current record
+  const eb_aoa_count = Number(g_form.getValue("eb_aoa_count"));
+
+  // Log the total and current AOA counts
+  console.log({ total, eb_aoa_count });
+
+  // Set the total AOA count on the form by adding the competitor count to the current count
+  g_form.setValue("u_total", total + eb_aoa_count);
+
+  // Return nothing
   return;
 
-    function calculateCompetitorAoaCountSum(arr) {
+  /**
+   * Calculates the total AOA count of all competitors.
+   * @param {Array} arr - An array of objects containing competitor data.
+   * @returns {number} - The total AOA count of all competitors.
+   */
+  function calculateCompetitorAoaCountSum(arr) {
     let sum = 0;
     for (let i = 0; i < arr.length; i++) {
-        if (arr[i].competitor_aoa_count) {
+      if (arr[i].competitor_aoa_count) {
         sum += Number(arr[i].competitor_aoa_count);
-        }
+      }
     }
     return sum;
-}
+  }
 }]]></script>
         <script_api_version>2.0.0</script_api_version>
         <sys_class_name>sys_ux_client_script</sys_class_name>
         <sys_created_by>Milton.Jones@employbridge.com</sys_created_by>
         <sys_created_on>2023-06-05 18:30:12</sys_created_on>
         <sys_id>80dc717c47176110265ad698436d43cc</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Calculate Total</sys_name>
         <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
         <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_ux_client_script_80dc717c47176110265ad698436d43cc</sys_update_name>
         <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-06-05 20:41:48</sys_updated_on>
+        <sys_updated_on>2023-06-22 19:12:09</sys_updated_on>
         <target>macroponent</target>
         <type>default</type>
     </sys_ux_client_script>

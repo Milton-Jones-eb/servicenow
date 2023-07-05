@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_programmatic">
+    <content_block_programmatic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <name>Enter Account client name</name>
+        <programmatic_content><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+
+<style>
+
+</style>
+
+<script>
+
+var my_dashboardMessageHandler = new DashboardMessageHandler("FilterEmployeeId");
+
+function publishFilter (searchTerm) {
+var filter_message = {};
+filter_message.id = "FilterEmployeeId";
+filter_message.table = "x_ebh_bill_report_competitors_aoa";
+
+if (searchTerm == ""){
+clearFilter();
+}
+else {
+filter_message.filter = "bill_report_sys_id.account_client_nameSTARTSWITH"+ searchTerm;
+	
+}
+SNC.canvas.interactiveFilters.setDefaultValue({
+id: filter_message.id,
+filters: [filter_message]
+}, false);
+my_dashboardMessageHandler.publishFilter(filter_message.table, filter_message.filter);
+}
+
+function clearFilter() {
+var filter_message = {};
+filter_message.id = "FilterEmployeeId";
+filter_message.table = "x_ebh_bill_report_competitors_aoa";
+filter_message.filter = "";
+SNC.canvas.interactiveFilters.setDefaultValue({
+id: filter_message.id,
+filters: [filter_message]
+}, false);
+my_dashboardMessageHandler.removeFilter();
+}
+</script>
+
+<input id="searchTerm" type="text" class="form-control" value="" onchange="publishFilter(this.value);"></input>
+
+</j:jelly>]]></programmatic_content>
+        <sys_class_name>content_block_programmatic</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-06-19 17:47:42</sys_created_on>
+        <sys_id>71473d9dc3efad1011971d4ce001310a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Enter Account client name</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>content_block_programmatic_71473d9dc3efad1011971d4ce001310a</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-06-26 16:02:24</sys_updated_on>
+        <two_phase>false</two_phase>
+    </content_block_programmatic>
+</record_update>

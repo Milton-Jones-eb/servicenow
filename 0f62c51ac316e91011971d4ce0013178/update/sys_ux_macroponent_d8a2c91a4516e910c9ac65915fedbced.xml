@@ -1755,6 +1755,17 @@
                       "operation" : null,
                       "targetId" : "clibthbbgwaaccjjaddeehhtbbttyffggeg",
                       "type" : "EVENT"
+                    }, {
+                      "broker" : null,
+                      "clientScript" : {
+                        "sysId" : "80dc717c47176110265ad698436d43cc"
+                      },
+                      "conditional" : null,
+                      "declarativeAction" : null,
+                      "event" : null,
+                      "operation" : null,
+                      "targetId" : "cljpvktjjmaaeehbddeehhveaijmhhcaa",
+                      "type" : "CLIENT_SCRIPT"
                     } ]
                   } ],
                   "slot" : null,
@@ -2428,14 +2439,14 @@
         <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
         <sys_created_on>2023-04-21 13:04:07</sys_created_on>
         <sys_id>d8a2c91a4516e910c9ac65915fedbced</sys_id>
-        <sys_mod_count>339</sys_mod_count>
+        <sys_mod_count>340</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
         <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_ux_macroponent_d8a2c91a4516e910c9ac65915fedbced</sys_update_name>
         <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-06-05 18:34:10</sys_updated_on>
+        <sys_updated_on>2023-07-05 15:31:02</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=d8a2c91a4516e910c9ac65915fedbced"/>
 </record_update>
