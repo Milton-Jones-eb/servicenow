@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>branch_data_from_workato</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Branch data from Workato</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-29 17:38:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46206f40c381315011971d4ce001319f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Branch data from Workato</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_46206f40c381315011971d4ce001319f</sys_update_name>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-29 17:38:41</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=46206f40c381315011971d4ce001319f"/>
+    <sys_variable_value action="delete_multiple" query="document_key=46206f40c381315011971d4ce001319f"/>
+    <sys_hub_step_instance action="delete_multiple" query="action=46206f40c381315011971d4ce001319f"/>
+    <sys_hub_action_input action="delete_multiple" query="model=46206f40c381315011971d4ce001319f"/>
+    <sys_hub_action_output action="delete_multiple" query="model=46206f40c381315011971d4ce001319f"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=46206f40c381315011971d4ce001319f"/>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=46206f40c381315011971d4ce001319f"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_46206f40c381315011971d4ce001319f"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_46206f40c381315011971d4ce001319f"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_46206f40c381315011971d4ce001319f"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_46206f40c381315011971d4ce001319f"/>
+    <sys_hub_action_plan action="delete_multiple" query="action_id=46206f40c381315011971d4ce001319f"/>
+</record_update>

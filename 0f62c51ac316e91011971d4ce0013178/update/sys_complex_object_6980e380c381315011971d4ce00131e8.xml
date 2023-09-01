@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6580e38061813150dd656045f3098de8</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>0f62c51ac316e91011971d4ce0013178</scope_name>
+        <serialized_content>{"FlowDesigner:FD6580e38061813150dd656045f3098de8":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD6580e38061813150dd656045f3098de8.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"f11260b3-8f2e-4e33-b6c1-4e39042cb268\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD6580e38061813150dd656045f3098de8\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-29 17:40:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6980e380c381315011971d4ce00131e8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD6580e38061813150dd656045f3098de8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_complex_object_6980e380c381315011971d4ce00131e8</sys_update_name>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-29 20:00:58</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

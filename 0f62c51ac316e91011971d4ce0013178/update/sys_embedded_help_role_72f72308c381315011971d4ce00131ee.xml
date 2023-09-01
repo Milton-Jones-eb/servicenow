@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_ebh_bill_report.branch_hierarchy_workato_snowflake_user" name="x_ebh_bill_report.branch_hierarchy_workato_snowflake_user">72f76f84c381315011971d4ce0013170</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-29 18:12:51</sys_created_on>
+        <sys_id>72f72308c381315011971d4ce00131ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>72f76f84c381315011971d4ce0013170</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_embedded_help_role_72f72308c381315011971d4ce00131ee</sys_update_name>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-29 18:12:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

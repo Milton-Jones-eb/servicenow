@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Competitor Info" section_id="8dd733b7c356215011971d4ce001318e" sys_domain="global" table="x_ebh_bill_report_built_reports" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total</element>
+            <position>0</position>
+            <sys_created_by>Milton.Jones@employbridge.com</sys_created_by>
+            <sys_created_on>2023-06-05 18:37:04</sys_created_on>
+            <sys_id>246eb1fc47176110265ad698436d4300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Competitor Info" display_value="Competitor Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">8dd733b7c356215011971d4ce001318e</sys_ui_section>
+            <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-06-05 18:37:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>Milton.Jones@employbridge.com</sys_created_by>
+            <sys_created_on>2023-06-05 18:37:04</sys_created_on>
+            <sys_id>6c6eb1fc47176110265ad698436d4300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Competitor Info" display_value="Competitor Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">8dd733b7c356215011971d4ce001318e</sys_ui_section>
+            <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-06-05 18:37:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Competitor Info</caption>
+            <header>false</header>
+            <name>x_ebh_bill_report_built_reports</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
+            <sys_created_on>2023-04-26 18:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dd733b7c356215011971d4ce001318e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_ebh_bill_report_built_reports</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+            <sys_update_name>sys_ui_section_8dd733b7c356215011971d4ce001318e</sys_update_name>
+            <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-04-29 17:19:40</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sys_ui_section_8dd733b7c356215011971d4ce001318e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Competitor Info" section_id="8dd733b7c356215011971d4ce001318e" sys_domain="global" table="x_ebh_bill_report_built_reports" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_total</element><position>0</position><sys_created_by>Milton.Jones@employbridge.com</sys_created_by><sys_created_on>2023-06-05 18:37:04</sys_created_on><sys_id>246eb1fc47176110265ad698436d4300</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Competitor Info" display_value="Competitor Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">8dd733b7c356215011971d4ce001318e</sys_ui_section><sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by><sys_updated_on>2023-06-05 18:37:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>Milton.Jones@employbridge.com</sys_created_by><sys_created_on>2023-06-05 18:37:04</sys_created_on><sys_id>6c6eb1fc47176110265ad698436d4300</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Competitor Info" display_value="Competitor Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">8dd733b7c356215011971d4ce001318e</sys_ui_section><sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by><sys_updated_on>2023-06-05 18:37:04</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Competitor Info</caption><header>false</header><name>x_ebh_bill_report_built_reports</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by><sys_created_on>2023-04-26 18:06:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8dd733b7c356215011971d4ce001318e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_ebh_bill_report_built_reports</sys_name><sys_overrides/><sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>sys_ui_section_8dd733b7c356215011971d4ce001318e</sys_update_name><sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by><sys_updated_on>2023-04-29 17:19:40</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2137670051</payload_hash>
+        <record_name>Market Share-AOA Collection Report</record_name>
+        <reverted_from/>
+        <source>8362c51ac316e91011971d4ce001317b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Milton.Jones@employbridge.com</sys_created_by>
+        <sys_created_on>2023-06-05 18:37:04</sys_created_on>
+        <sys_id>ec6eb1fc47176110265ad698436d4302</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1888cd9315d0000001</sys_recorded_at>
+        <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-06-05 18:37:04</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a46eb1fc2a176110e5ea4b0815b98f02</update_guid>
+        <update_guid_history>a46eb1fc2a176110e5ea4b0815b98f02:2137670051,1ed9c7f01ee2e15064d2e72e2823b382:-254770658,a80e10504ae261501ef50e42ebedaaf2:-208745974,4e987bb74f56215031e7343c185dd07f:297854335,ddd773b7655621502a087643315a2e02:1171155142</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-16 19:24:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>75c3e3fa26eb4af1bd6dd5b009a99bf9</sys_id>
+        <sys_metadata>8dd733b7c356215011971d4ce001318e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Competitor Info</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent display_value="Market Share-AOA Collection Report">a4147fb3c356215011971d4ce00131b9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8dd733b7c356215011971d4ce001318e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8dd733b7c356215011971d4ce001318e">ec6eb1fc47176110265ad698436d4302</sys_update_version>
+        <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-16 19:24:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -3,7 +3,7 @@
         <filter table="x_ebh_bill_report_competitors_aoa">sys_created_onONLast week@javascript:gs.beginningOfLastWeek()@javascript:gs.endOfLastWeek()^EQ<item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="ON" or="false" value="Last week@javascript:gs.beginningOfLastWeek()@javascript:gs.endOfLastWeek()"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
-        <group display_value="SG-Market Share-AOA Collection Tool Admin" name="SG-Market Share-AOA Collection Tool Admin">b39901fc47fa2510265ad698436d4359</group>
+        <group display_value="SG-DEV-Market Share-AOA Collection Tool Admin" name="SG-DEV-Market Share-AOA Collection Tool Admin">b39901fc47fa2510265ad698436d4359</group>
         <last_used/>
         <mobile>false</mobile>
         <roles/>

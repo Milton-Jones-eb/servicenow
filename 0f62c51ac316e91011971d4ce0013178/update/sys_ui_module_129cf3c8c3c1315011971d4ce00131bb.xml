@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Office of the CRO - Apps">14678d1a47743150265ad698436d4349</application>
+        <filter/>
+        <name>Branch (Workato-Snowflake) stagings</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_ebh_bill_report.branch_workato_snowflake_staging_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-29 19:42:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>129cf3c8c3c1315011971d4ce00131bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Branch (Workato-Snowflake) stagings</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_ui_module_129cf3c8c3c1315011971d4ce00131bb</sys_update_name>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-29 19:42:56</sys_updated_on>
+        <table>x_ebh_bill_report_branch_workato_snowflake_staging</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

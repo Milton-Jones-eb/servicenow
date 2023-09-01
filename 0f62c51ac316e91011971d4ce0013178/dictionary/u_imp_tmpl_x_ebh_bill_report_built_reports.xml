@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="13a186de4768b110265ad698436d433a" extends="sys_import_set_row" label="Imp Tmpl X Ebh Bill Report Built Reports" max_length="40" name="u_imp_tmpl_x_ebh_bill_report_built_reports" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Client Name" label="Account Client Name" max_length="40" name="u_account_client_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Number" label="Account Number" max_length="40" name="u_account_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Type" label="Account Type" max_length="40" name="u_account_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Area" label="Area" max_length="40" name="u_area" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Branch" label="Branch" max_length="32" name="u_branch" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Division" label="Division" max_length="40" name="u_division" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EB AOA Count" label="EB AOA Count" max_length="40" name="u_eb_aoa_count" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Market" label="Market" max_length="40" name="u_market" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Region" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total" label="Total" max_length="40" name="u_total" type="string"/>
+    </element>
+</database>

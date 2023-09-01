@@ -1,58 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Competitor" section_id="b3c5655ec396e91011971d4ce0013169" sys_domain="global" table="x_ebh_bill_report_competitors_aoa" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>competitor</element>
+            <element>competitor_reference</element>
             <position>0</position>
-            <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-24 21:12:36</sys_created_on>
-            <sys_id>653f02dfc3d6ad1011971d4ce0013126</sys_id>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:48:31</sys_created_on>
+            <sys_id>e531054047f83910265ad698436d431f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Competitor" display_value="Competitor" name="x_ebh_bill_report_competitors_aoa" sys_domain="global" view="Default view">b3c5655ec396e91011971d4ce0013169</sys_ui_section>
-            <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-24 21:12:36</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:48:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>competitor</element>
+            <position>1</position>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:48:31</sys_created_on>
+            <sys_id>ed31054047f83910265ad698436d431f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Competitor" display_value="Competitor" name="x_ebh_bill_report_competitors_aoa" sys_domain="global" view="Default view">b3c5655ec396e91011971d4ce0013169</sys_ui_section>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:48:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>display_value</element>
-            <position>1</position>
-            <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-24 21:12:36</sys_created_on>
-            <sys_id>6d3f02dfc3d6ad1011971d4ce0013126</sys_id>
+            <position>2</position>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:48:31</sys_created_on>
+            <sys_id>e131054047f83910265ad698436d4320</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Competitor" display_value="Competitor" name="x_ebh_bill_report_competitors_aoa" sys_domain="global" view="Default view">b3c5655ec396e91011971d4ce0013169</sys_ui_section>
-            <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-24 21:12:36</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:48:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
-            <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-24 21:12:36</sys_created_on>
-            <sys_id>613f02dfc3d6ad1011971d4ce0013127</sys_id>
+            <position>3</position>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:48:31</sys_created_on>
+            <sys_id>e531054047f83910265ad698436d4320</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Competitor" display_value="Competitor" name="x_ebh_bill_report_competitors_aoa" sys_domain="global" view="Default view">b3c5655ec396e91011971d4ce0013169</sys_ui_section>
-            <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-24 21:12:36</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:48:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>competitor_aoa_count</element>
-            <position>3</position>
-            <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-24 21:12:36</sys_created_on>
-            <sys_id>653f02dfc3d6ad1011971d4ce0013127</sys_id>
+            <position>4</position>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:48:31</sys_created_on>
+            <sys_id>e931054047f83910265ad698436d4320</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Competitor" display_value="Competitor" name="x_ebh_bill_report_competitors_aoa" sys_domain="global" view="Default view">b3c5655ec396e91011971d4ce0013169</sys_ui_section>
-            <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-24 21:12:36</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:48:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

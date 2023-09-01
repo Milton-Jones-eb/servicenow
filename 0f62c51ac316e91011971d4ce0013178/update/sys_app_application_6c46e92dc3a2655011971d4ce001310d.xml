@@ -7,22 +7,22 @@
         <hint>Market vault</hint>
         <name/>
         <order>100</order>
-        <roles/>
+        <roles>x_ebh_bill_report.user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
         <sys_created_on>2023-05-01 18:01:13</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6c46e92dc3a2655011971d4ce001310d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Office of the CRO - Apps</sys_name>
         <sys_overrides/>
         <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
         <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_app_application_6c46e92dc3a2655011971d4ce001310d</sys_update_name>
-        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-05-01 18:44:33</sys_updated_on>
+        <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-30 20:21:54</sys_updated_on>
         <title>Office of the CRO - Apps</title>
         <view_name/>
     </sys_app_application>

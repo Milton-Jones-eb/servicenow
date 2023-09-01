@@ -6,10 +6,11 @@
         <preset/>
         <required_translations>[ ]</required_translations>
         <script><![CDATA[function handler({ api, event, helpers, imports }) {
-  
+  const { competitor_columns } = api.state;
+  const g_form = api.data.glide_form_1.nowRecordFormBlob.gForm;
+  const incSysid = g_form.getUniqueValue();
   console.log (api.state.competitors_data);
-
-  // const { sysId, aoa_count, competitor } = event.context.item.value;
+ 
   // const bill_report_sys_id = api.data.glide_form_1.nowRecordFormBlob.sysId;
 
   // const template_fields = `
@@ -30,14 +31,14 @@
         <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
         <sys_created_on>2023-04-25 05:04:45</sys_created_on>
         <sys_id>ed4bbbd3c35ead1011971d4ce00131c1</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Update competitor</sys_name>
         <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
         <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_ux_client_script_ed4bbbd3c35ead1011971d4ce00131c1</sys_update_name>
         <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-05-31 14:13:37</sys_updated_on>
+        <sys_updated_on>2023-08-25 15:45:35</sys_updated_on>
         <target>macroponent</target>
         <type>default</type>
     </sys_ux_client_script>

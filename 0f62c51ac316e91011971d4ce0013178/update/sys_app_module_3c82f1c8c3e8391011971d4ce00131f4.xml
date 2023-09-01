@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Office of the CRO - Apps">6c46e92dc3a2655011971d4ce001310d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Market share-Interactive Analysis</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://employbridgedev.service-now.com/$interactive_analysis.do?sysparm_field=bill_report_sys_id.account_client_name&amp;sysparm_table=x_ebh_bill_report_competitors_aoa&amp;sysparm_from_list=true&amp;sysparm_query=&amp;sysparm_list_view=</query>
+        <report/>
+        <roles>EB_ServiceNow_HIAdmin,admin,x_ebh_bill_report.subset,x_ebh_bill_report.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-04 13:10:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3c82f1c8c3e8391011971d4ce00131f4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Market Share-Interactive Analysis</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_app_module_3c82f1c8c3e8391011971d4ce00131f4</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-04 14:02:25</sys_updated_on>
+        <timeline_page/>
+        <title>Market Share-Interactive Analysis</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>window.open()</window_name>
+    </sys_app_module>
+</record_update>

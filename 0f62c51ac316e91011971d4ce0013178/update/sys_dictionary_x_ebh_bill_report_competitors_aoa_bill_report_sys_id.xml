@@ -5,7 +5,7 @@
         <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Bill Report Sys ID</column_label>
@@ -52,8 +52,8 @@
         <sys_policy/>
         <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_dictionary_x_ebh_bill_report_competitors_aoa_bill_report_sys_id</sys_update_name>
-        <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-04-26 19:31:04</sys_updated_on>
+        <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-22 13:10:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_ebh_bill_report_built_reports</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Insert record to the custom table</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+
+    var compaoa = [];
+    var compaoa1 = [];
+
+    //Query for parent record
+    var marketShareReport = new GlideRecord('x_ebh_bill_report_market_share_csv');
+    marketShareReport.addQuery('u_mrkt_share_sys_id', current.sys_id);
+    marketShareReport.query();
+
+    if (marketShareReport.next()) {
+        marketShareReport.account_name = current.account_client_name;
+        marketShareReport.u_mrkt_share_sys_id = current.sys_id;
+        marketShareReport.account_number = current.account_number;
+        marketShareReport.account_type = current.account_type;
+        marketShareReport.area = current.area;
+        marketShareReport.branch = current.branch;
+        marketShareReport.city = current.city;
+        marketShareReport.market = current.market;
+        marketShareReport.total = current.u_total;
+        marketShareReport.region = current.region;
+        marketShareReport.eb_aoa_count = current.eb_aoa_count;
+        marketShareReport.competitor_name = current.competitor_names;
+        marketShareReport.comp_aoa = current.competitor_counts;
+
+
+        var compname = current.competitor_names.toString().split('\n');
+        var aoac = current.competitor_counts.toString().split('\n');
+        for (var i = 0; i < compname.length; i++) {
+
+            var cmpn = compname[i].trim();
+            var aoad = aoac[i].trim();
+            compaoa.push(cmpn + '=' + aoad);
+        }
+
+        var l = compaoa.join('\n');
+
+        marketShareReport.competitor_aoa_count = l;
+
+
+        marketShareReport.update();
+    } else {
+        marketShareReport.initialize();
+        marketShareReport.account_name = current.account_client_name;
+        marketShareReport.u_mrkt_share_sys_id = current.sys_id;
+        marketShareReport.account_number = current.account_number;
+        marketShareReport.account_type = current.account_type;
+        marketShareReport.area = current.area;
+        marketShareReport.branch = current.branch;
+        marketShareReport.city = current.city;
+
+        marketShareReport.market = current.market;
+        marketShareReport.total = current.u_total;
+        marketShareReport.region = current.region;
+        marketShareReport.eb_aoa_count = current.eb_aoa_count;
+        marketShareReport.competitor_name = current.competitor_names;
+        marketShareReport.comp_aoa = current.competitor_counts;
+
+        var compname1 = current.competitor_names.toString().split('\n');
+        var aoac1 = current.competitor_counts.toString().split('\n');
+        for (var j = 0; j < compname1.length; j++) {
+
+            var cmpn1 = compname1[j].trim();
+            var aoad1 = aoac1[j].trim();
+            compaoa1.push(cmpn1 + '=' + aoad1);
+        }
+
+        var l1 = compaoa1.join('\n');
+
+        marketShareReport.competitor_aoa_count = l1;
+        marketShareReport.insert();
+    }
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-25 15:33:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c8d91ef6c3703d1011971d4ce00131b3</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>Insert record to the custom table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_script_c8d91ef6c3703d1011971d4ce00131b3</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-28 14:40:38</sys_updated_on>
+        <template/>
+        <when>after</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8d91ef6c3703d1011971d4ce00131b3"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a1665276c3703d1011971d4ce00131a5" label="Market share CSV  " max_length="40" name="x_ebh_bill_report_market_share_csv" type="collection">
+        <element label="Account Name" max_length="40" name="account_name" type="string"/>
+        <element label="Account Number" max_length="40" name="account_number" type="string"/>
+        <element label="Account Type" max_length="40" name="account_type" type="string"/>
+        <element label="Area" max_length="40" name="area" type="string"/>
+        <element label="Branch" max_length="32" name="branch" reference="u_branches" type="reference"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Competitor / AOA count" max_length="1000" name="competitor_aoa_count" type="string"/>
+        <element label="Competitor Name" max_length="1000" name="competitor_name" type="string"/>
+        <element label="Competitor AOA Count" max_length="500" name="comp_aoa" type="string"/>
+        <element label="EB AOA Count" max_length="40" name="eb_aoa_count" type="integer"/>
+        <element label="Market" max_length="40" name="market" type="string"/>
+        <element label="Region" max_length="40" name="region" type="string"/>
+        <element label="Total" max_length="40" name="total" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Market share AOA sys_id" max_length="40" name="u_mrkt_share_sys_id" type="string"/>
+        <index name="index">
+            <element name="branch"/>
+        </index>
+    </element>
+</database>

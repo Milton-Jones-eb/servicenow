@@ -3,56 +3,84 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>user</element>
             <position>0</position>
-            <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-29 17:20:00</sys_created_on>
-            <sys_id>cbe90bf0c3e2e15011971d4ce00131f7</sys_id>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:24:04</sys_created_on>
+            <sys_id>839bfcc847b83910265ad698436d4346</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="User Info" display_value="User Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">163433f3c356215011971d4ce001312e</sys_ui_section>
-            <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-29 17:20:00</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:24:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>1</position>
-            <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-29 17:20:00</sys_created_on>
-            <sys_id>07e94bf0c3e2e15011971d4ce001311d</sys_id>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:24:04</sys_created_on>
+            <sys_id>8b9bfcc847b83910265ad698436d4346</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="User Info" display_value="User Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">163433f3c356215011971d4ce001312e</sys_ui_section>
-            <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-29 17:20:00</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:24:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>2</position>
-            <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-29 17:20:00</sys_created_on>
-            <sys_id>0be94bf0c3e2e15011971d4ce001311d</sys_id>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:24:04</sys_created_on>
+            <sys_id>8f9bfcc847b83910265ad698436d4346</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="User Info" display_value="User Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">163433f3c356215011971d4ce001312e</sys_ui_section>
-            <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-29 17:20:00</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:24:04</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
             <position>3</position>
-            <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
-            <sys_created_on>2023-04-29 17:20:00</sys_created_on>
-            <sys_id>0fe94bf0c3e2e15011971d4ce001311d</sys_id>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:24:04</sys_created_on>
+            <sys_id>839bfcc847b83910265ad698436d4347</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="User Info" display_value="User Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">163433f3c356215011971d4ce001312e</sys_ui_section>
-            <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-04-29 17:20:00</sys_updated_on>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total</element>
+            <position>4</position>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:24:04</sys_created_on>
+            <sys_id>879bfcc847b83910265ad698436d4347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Info" display_value="User Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">163433f3c356215011971d4ce001312e</sys_ui_section>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:24:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_aoa_count</element>
+            <position>5</position>
+            <sys_created_by>jordan.harvey@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-16 19:27:46</sys_created_on>
+            <sys_id>2d7cb00c47b83910265ad698436d4375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Info" display_value="User Info" name="x_ebh_bill_report_built_reports" sys_domain="global" view="Default view">163433f3c356215011971d4ce001312e</sys_ui_section>
+            <sys_updated_by>jordan.harvey@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-16 19:27:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

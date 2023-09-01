@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-29 14:18:39</sys_created_on>
+        <sys_id>48623e4cc38dfd1011971d4ce001313b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.ebh.marketshare-aoacollection.*.x_ebh_bill_report.admin</sys_name>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_security_acl display_value="x.ebh.marketshare-aoacollection.*">7352fa4cc38dfd1011971d4ce00131fa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_48623e4cc38dfd1011971d4ce001313b</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-29 14:18:39</sys_updated_on>
+        <sys_user_role display_value="x_ebh_bill_report.admin" name="x_ebh_bill_report.admin">cb62c51ac316e91011971d4ce001317f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

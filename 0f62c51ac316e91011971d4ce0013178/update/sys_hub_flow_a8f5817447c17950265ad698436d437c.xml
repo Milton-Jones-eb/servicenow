@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>branch_hierarchy</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Branch hierarchy</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-31 14:20:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8f5817447c17950265ad698436d437c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Branch hierarchy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_hub_flow_a8f5817447c17950265ad698436d437c</sys_update_name>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-31 14:23:41</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=a8f5817447c17950265ad698436d437c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=a8f5817447c17950265ad698436d437c"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=a8f5817447c17950265ad698436d437c^sys_idNOT IN99b601f447c17950265ad698436d4357"/>
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <comment/>
+        <display_text/>
+        <flow display_value="Branch hierarchy">a8f5817447c17950265ad698436d437c</flow>
+        <name>Daily</name>
+        <remote_sys_id/>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-31 14:23:41</sys_created_on>
+        <sys_id>99b601f447c17950265ad698436d4357</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-31 14:23:41</sys_updated_on>
+        <trigger_definition display_value="Daily">89142dc0c32222002841b63b12d3ae8a</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>daily</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=99b601f447c17950265ad698436d4357"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>99b601f447c17950265ad698436d4357</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-31 14:23:41</sys_created_on>
+        <sys_id>5db601f447c17950265ad698436d4358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-31 14:23:41</sys_updated_on>
+        <value>1970-01-01 11:00:00</value>
+        <variable display_value="Time">3ad4edc0c32222002841b63b12d3aee5</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_trigger_input_89142dc0c32222002841b63b12d3ae8a^id=99b601f447c17950265ad698436d4357"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=a8f5817447c17950265ad698436d437c"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=a8f5817447c17950265ad698436d437c^sys_idNOT IN6cf58d7447c17950265ad698436d4365"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>a8f5817447c17950265ad698436d437c</id>
+        <name>Branch hierarchy</name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-31 14:20:21</sys_created_on>
+        <sys_id>6cf58d7447c17950265ad698436d4365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-31 14:20:21</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=6cf58d7447c17950265ad698436d4365"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=a8f5817447c17950265ad698436d437c"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=a8f5817447c17950265ad698436d437c"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=a8f5817447c17950265ad698436d437c"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=a8f5817447c17950265ad698436d437c^sys_idNOT IN21b601f447c17950265ad698436d4366"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Branch hierarchy data from workato">894605b447c17950265ad698436d434d</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Branch hierarchy">a8f5817447c17950265ad698436d437c</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+        <sys_created_on>2023-08-31 14:23:41</sys_created_on>
+        <sys_id>21b601f447c17950265ad698436d4366</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-08-31 14:23:41</sys_updated_on>
+        <ui_id>f1470864-2f8e-4c63-a538-b4aab641fef9</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=21b601f447c17950265ad698436d4366"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=21b601f447c17950265ad698436d4366"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=21b601f447c17950265ad698436d4366"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=a8f5817447c17950265ad698436d437c"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=a8f5817447c17950265ad698436d437c"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=a8f5817447c17950265ad698436d437c"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=a8f5817447c17950265ad698436d437c"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_a8f5817447c17950265ad698436d437c"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_a8f5817447c17950265ad698436d437c"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_a8f5817447c17950265ad698436d437c"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_a8f5817447c17950265ad698436d437c"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=a8f5817447c17950265ad698436d437c"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=a8f5817447c17950265ad698436d437c"/>
+</record_update>

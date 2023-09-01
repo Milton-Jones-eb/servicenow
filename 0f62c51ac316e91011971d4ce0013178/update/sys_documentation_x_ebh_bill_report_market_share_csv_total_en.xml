@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="total" label="Total" language="en" table="x_ebh_bill_report_market_share_csv">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>total</element>
+            <help/>
+            <hint/>
+            <label>Total</label>
+            <language>en</language>
+            <name>x_ebh_bill_report_market_share_csv</name>
+            <plural>Totals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-08-25 15:09:56</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Total</sys_name>
+            <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+            <sys_update_name>sys_documentation_x_ebh_bill_report_market_share_csv_total_en</sys_update_name>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-08-25 15:09:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
