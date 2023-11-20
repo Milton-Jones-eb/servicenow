@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
     <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
         <includes/>
         <macroponent display_value="Home">d8a2c91a4516e910c9ac65915fedbced</macroponent>
         <name>button_1/disabled</name>
@@ -42,9 +43,9 @@ function evaluateProperty({api, helpers}) {
         <sys_id>c0f3d78747c3e950265ad698436d4362</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>button_1/disabled</sys_name>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_ux_client_script_c0f3d78747c3e950265ad698436d4362</sys_update_name>
         <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
         <sys_updated_on>2023-05-31 14:22:03</sys_updated_on>

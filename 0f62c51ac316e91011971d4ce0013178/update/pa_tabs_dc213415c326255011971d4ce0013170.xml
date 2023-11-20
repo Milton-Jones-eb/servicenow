@@ -12,9 +12,9 @@
         <sys_mod_count>1</sys_mod_count>
         <sys_name>AOA By Account and Competitor</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>pa_tabs_dc213415c326255011971d4ce0013170</sys_update_name>
         <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
         <sys_updated_on>2023-04-30 19:30:09</sys_updated_on>

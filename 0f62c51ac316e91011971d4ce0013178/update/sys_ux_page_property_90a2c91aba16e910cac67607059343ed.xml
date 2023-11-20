@@ -3,7 +3,7 @@
         <choices/>
         <description>Header Configuration</description>
         <name>chrome_header</name>
-        <page display_value="Market Share AOA Collection">14a2c91a7716e910fd0b0f7f4d2502ef</page>
+        <page display_value="Wallet Share Data Entry Tool">14a2c91a7716e910fd0b0f7f4d2502ef</page>
         <required_translations>[ {
   "message" : "Configure workspace",
   "comment" : ""
@@ -43,17 +43,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>global</sys_domain_path>
         <sys_id>90a2c91aba16e910cac67607059343ed</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>chrome_header</sys_name>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_ux_page_property_90a2c91aba16e910cac67607059343ed</sys_update_name>
-        <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-04-25 15:00:38</sys_updated_on>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 12:05:30</sys_updated_on>
         <type>json</type>
         <unique_name>x_ebh_bill_report.14a2c91a7716e910fd0b0f7f4d2502ef.root.chrome_header</unique_name>
-        <value>{"privatePage":{"notificationsEnabled":false,"searchEnabled":false,"userPrefsEnabled":true,"contextualConfigurationItems":{"_roles":["workspace_admin"],"enabled":true,"position":150},"globalTools":{"collapsingMenuId":0,"primaryItems":[{"label":"UserMenu","icon":"user","type":"menu","primaryDisplay":"icon","value":{"children":[{"_roles":["workspace_admin"],"label":{"message":"Configure workspace","translatable":true},"type":"navigation","position":100,"primaryDisplay":"none","value":{"type":"external","opensWindow":"true","value":{"href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=98a2c91ad416e91004d7f073a757c0ef"}}},{"label":{"message":"Settings","translatable":true},"type":"menu","position":50,"value":{"children":[{"label":{"message":"Display Preferences","translatable":true},"type":"divider"},{"label":{"message":"Show ribbon","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showRibbon"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show sidebar","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showAgentAssist"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Wrap list text","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.wrapListText"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Notifications","translatable":true},"type":"divider"},{"label":{"message":"Show Banners","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showPopups"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show Badge Count","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showBadgeCount"},"_default":{"userPrefName":"true"}}}}]}}]}}],"secondaryItems":[]}},"publicPage":{"actionButtons":[]}}</value>
+        <value>{"privatePage":{"notificationsEnabled":false,"searchEnabled":false,"userPrefsEnabled":true,"contextualConfigurationItems":{"_roles":["workspace_admin"],"enabled":true,"position":150},"globalTools":{"collapsingMenuId":0,"primaryItems":[{"label":"UserMenu","icon":"user","type":"menu","primaryDisplay":"icon","value":{"children":[{"_roles":["workspace_admin"],"label":{"message":"Configure workspace","translatable":true},"type":"navigation","position":100,"primaryDisplay":"none","value":{"type":"external","opensWindow":"true","value":{"href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=98a2c91ad416e91004d7f073a757c0ef"}}},{"label":{"message":"Settings","translatable":true},"type":"menu","position":50,"value":{"children":[{"label":{"message":"Display Preferences","translatable":true},"type":"divider"},{"label":{"message":"Show ribbon","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showRibbon"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show sidebar","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.showAgentAssist"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Wrap list text","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.wrapListText"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Notifications","translatable":true},"type":"divider"},{"label":{"message":"Show Banners","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showPopups"},"_default":{"userPrefName":"true"}}}},{"label":{"message":"Show Badge Count","translatable":true},"type":"toggle","value":{"_meta":{"_type":"userPreferences","_path":"userPrefName","_value":{"userPrefName":"workspace.notifications.showBadgeCount"},"_default":{"userPrefName":"true"}}}}]}}]}}],"secondaryItems":[]}},"publicPage":{"actionButtons":[],"searchEnabled":false}}</value>
     </sys_ux_page_property>
     <sys_translated_text action="delete_multiple" query="documentkey=90a2c91aba16e910cac67607059343ed"/>
 </record_update>

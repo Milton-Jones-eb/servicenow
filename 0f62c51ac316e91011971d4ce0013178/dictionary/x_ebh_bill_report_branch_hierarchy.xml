@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="fe74459647743150265ad698436d43fe" label="Branch Hierarchy" max_length="40" name="x_ebh_bill_report_branch_hierarchy" type="collection">
         <element label="Accounting Unit" max_length="20" name="accounting_unit" type="string"/>
-        <element label="Address City" max_length="50" name="address_city" type="string"/>
+        <element label="City" max_length="50" name="address_city" type="string"/>
         <element label="Address Line 1" max_length="50" name="address_line_1" type="string"/>
         <element label="Address Line 2" max_length="50" name="address_line_2" type="string"/>
         <element label="Address State" max_length="50" name="address_state" type="string"/>
         <element label="Address Zip" max_length="50" name="address_zip" type="string"/>
         <element label="Area Last Modified" max_length="50" name="area_last_modified" type="glide_date_time"/>
-        <element label="Area Name" max_length="100" name="area_name" type="string"/>
+        <element label="Market / Area " max_length="100" name="area_name" type="string"/>
         <element label="Branch Active" max_length="40" name="branch_active" type="integer"/>
         <element label="Branch Id &#9;" max_length="50" name="branch_id" type="string"/>
         <element label="Branch Last Modified" max_length="40" name="branch_last_modified" type="glide_date_time"/>
-        <element label="Branch Name" max_length="200" name="branch_name" type="string"/>
+        <element display="true" label="Branch Name" max_length="200" name="branch_name" type="string"/>
+        <element label="Branch Number" max_length="100" name="branch_number" type="integer"/>
         <element label="CDA Futa" max_length="40" name="cda_futa" type="float"/>
         <element label="CDA Suta" max_length="40" name="cda_suta" type="float"/>
         <element label="CDA WCModifier" max_length="40" name="cda_wcmodifier" type="float"/>
         <element label="CRM Brand" max_length="100" name="crm_brand" type="string"/>
         <element label="FICA" max_length="40" name="fica" type="integer"/>
-        <element label="Finance  Division" max_length="100" name="finance_division" type="string"/>
+        <element label="Division" max_length="100" name="finance_division" type="string"/>
         <element label="Finance Division Last Modified" max_length="40" name="finance_division_last_modified" type="glide_date_time"/>
         <element label="MEDI" max_length="40" name="medi" type="integer"/>
         <element label="Region" max_length="100" name="region" type="string"/>

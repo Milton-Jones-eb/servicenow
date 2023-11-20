@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Office of the CRO - Apps">6c46e92dc3a2655011971d4ce001310d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Built reports (Parent)</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Market share Parent table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>120</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/x_ebh_bill_report_built_reports_list.do?sysparm_nostack=true&amp;sysparm_query=&amp;sysparm_first_row=1&amp;sysparm_view=</query>
+        <report/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-09-08 14:34:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c65521f4781b510265ad698436d4304</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Wallet Share Parent table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_app_module_0c65521f4781b510265ad698436d4304</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 12:39:31</sys_updated_on>
+        <timeline_page/>
+        <title>Wallet Share Parent table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

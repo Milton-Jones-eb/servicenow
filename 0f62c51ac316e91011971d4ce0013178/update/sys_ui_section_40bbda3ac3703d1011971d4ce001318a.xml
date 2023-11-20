@@ -4,13 +4,13 @@
             <element>account_name</element>
             <position>0</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>ade8a2ffc370fd1011971d4ce00131a3</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>ef2e5ea447197110265ad698436d43b7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>account_number</element>
             <position>1</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a5e8a2ffc370fd1011971d4ce00131a4</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>e32e5ea447197110265ad698436d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>account_type</element>
             <position>2</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a9e8a2ffc370fd1011971d4ce00131a4</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>e72e5ea447197110265ad698436d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>area</element>
             <position>3</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>ade8a2ffc370fd1011971d4ce00131a4</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>eb2e5ea447197110265ad698436d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>branch</element>
             <position>4</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a1e8a2ffc370fd1011971d4ce00131a5</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>ef2e5ea447197110265ad698436d43b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>city</element>
             <position>5</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a5e8a2ffc370fd1011971d4ce00131a5</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>e32e5ea447197110265ad698436d43b9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_mrkt_share_sys_id</element>
             <position>6</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a9e8a2ffc370fd1011971d4ce00131a5</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>e72e5ea447197110265ad698436d43b9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>ade8a2ffc370fd1011971d4ce00131a5</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>eb2e5ea447197110265ad698436d43b9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>market</element>
             <position>8</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a1e8a2ffc370fd1011971d4ce00131a6</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>ef2e5ea447197110265ad698436d43b9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>total</element>
             <position>9</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a5e8a2ffc370fd1011971d4ce00131a6</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>e32e5ea447197110265ad698436d43ba</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>region</element>
             <position>10</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>a9e8a2ffc370fd1011971d4ce00131a6</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>e72e5ea447197110265ad698436d43ba</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,27 @@
             <element>eb_aoa_count</element>
             <position>11</position>
             <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
-            <sys_created_on>2023-08-28 18:58:46</sys_created_on>
-            <sys_id>ade8a2ffc370fd1011971d4ce00131a6</sys_id>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>eb2e5ea447197110265ad698436d43ba</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-28 18:58:46</sys_updated_on>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_div</element>
+            <position>12</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:23:05</sys_created_on>
+            <sys_id>ef2e5ea447197110265ad698436d43ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_market_share_csv" sys_domain="global" view="Default view">40bbda3ac3703d1011971d4ce001318a</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:23:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -182,9 +196,9 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_ebh_bill_report_market_share_csv</sys_name>
             <sys_overrides/>
-            <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+            <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+            <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
             <sys_update_name>sys_ui_section_40bbda3ac3703d1011971d4ce001318a</sys_update_name>
             <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
             <sys_updated_on>2023-08-25 15:27:07</sys_updated_on>

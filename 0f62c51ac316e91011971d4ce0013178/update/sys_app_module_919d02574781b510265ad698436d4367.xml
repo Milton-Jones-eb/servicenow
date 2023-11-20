@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Office of the CRO - Apps">6c46e92dc3a2655011971d4ce001310d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>To add new competitors in Dropdown</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Add Competitors</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>700</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/x_ebh_bill_report_competitors_list.do?sysparm_query=&amp;sysparm_first_row=1&amp;sysparm_view=</query>
+        <report/>
+        <roles>admin,x_ebh_bill_report.admin,x_ebh_bill_report.subset</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-09-08 13:59:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>919d02574781b510265ad698436d4367</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Add Competitors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sys_app_module_919d02574781b510265ad698436d4367</sys_update_name>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-09-08 14:43:52</sys_updated_on>
+        <timeline_page/>
+        <title>Add Competitors</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

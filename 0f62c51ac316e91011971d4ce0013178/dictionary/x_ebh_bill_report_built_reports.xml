@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a4147fb3c356215011971d4ce00131b9" label="Market Share-AOA Collection Report" max_length="40" name="x_ebh_bill_report_built_reports" type="collection">
+    <element db_object_id="a4147fb3c356215011971d4ce00131b9" label="Wallet Share Data Entry Tool Reports" max_length="40" name="x_ebh_bill_report_built_reports" type="collection">
         <element label="Account Client Name" mandatory="true" max_length="40" name="account_client_name" type="string"/>
         <element label="Account Number" mandatory="true" max_length="40" name="account_number" type="string"/>
         <element choice="1" label="Account Type" mandatory="true" max_length="40" name="account_type" type="string">
@@ -9,26 +9,22 @@
                 <element inactive_on_update="false" label="SMB/Retail" sequence="2" value="SMB/Retail"/>
             </choice>
         </element>
-        <element label="Area" max_length="40" name="area" type="string"/>
-        <element label="Branch" max_length="32" name="branch" reference="u_branches" type="reference"/>
-        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Branch" max_length="32" name="branch" reference="x_ebh_bill_report_branch_hierarchy" type="reference"/>
         <element label="Competitors AOA" max_length="40" name="competitors_aoa" reference="x_ebh_bill_report_competitors_aoa" type="glide_list"/>
         <element label="Competitor Counts" max_length="300" name="competitor_counts" read_only="true" type="string"/>
         <element label="Competitor Names" max_length="300" name="competitor_names" read_only="true" type="string"/>
         <element display="true" formula="CONCATENATE(account_client_name, &quot; &quot;, account_number, &quot; &quot;, account_type)" label="Display Value" max_length="40" name="display_value" type="string" virtual="true" virtual_type="formula"/>
-        <element choice="1" label="Division" max_length="40" name="division" type="choice">
+        <element choice="1" label="Division" max_length="40" name="division" reference="x_ebh_bill_report_branch_hierarchy" reference_qual="finance_divisionISNOTEMPTY^EQ" reference_qual_condition="finance_divisionISNOTEMPTY^EQ" type="reference">
             <choice>
                 <element inactive="true" inactive_on_update="true" label="Southeast Division" sequence="0" value="Southeast Division"/>
                 <element inactive_on_update="false" label="West Coast Division" sequence="0" value="West Coast Division"/>
                 <element inactive_on_update="false" label="Great Plains Division" sequence="1" value="Great Plains Division"/>
                 <element inactive_on_update="false" label="Southern Division" sequence="2" value="Southern Division"/>
-                <element inactive_on_update="false" label="Northern Division" sequence="3" value="Northern Division"/>
+                <element inactive_on_update="false" label="Northern Division" sequence="3" value="Northern"/>
             </choice>
         </element>
         <element label="EB AOA Count" mandatory="true" max_length="40" name="eb_aoa_count" type="integer"/>
-        <element label="Market" max_length="40" name="market" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
-        <element label="Region" max_length="40" name="region" type="string"/>
         <element active="false" default="0" label="Total AOA Count" max_length="10" name="total_aoa_count" type="integer"/>
         <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="User" mandatory="true" max_length="32" name="user" read_only="true" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="Total" mandatory="true" max_length="40" name="u_total" type="string"/>

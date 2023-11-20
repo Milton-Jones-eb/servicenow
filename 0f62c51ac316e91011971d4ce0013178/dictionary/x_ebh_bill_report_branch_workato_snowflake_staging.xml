@@ -12,6 +12,7 @@
         <element label="Branch Id" max_length="50" name="branch_id" type="string"/>
         <element label="Branch Last Modified" max_length="40" name="branch_last_modified" type="glide_date"/>
         <element label="Branch Name" max_length="200" name="branch_name" type="string"/>
+        <element label="Branch Number" max_length="40" name="branch_number" type="integer"/>
         <element label="CDA Futa" max_length="40" name="cda_futa" type="float"/>
         <element label="CDA Suta" max_length="40" name="cda_suta" type="float"/>
         <element label="CDA WCModifier" max_length="40" name="cda_wcmodifier" type="float"/>

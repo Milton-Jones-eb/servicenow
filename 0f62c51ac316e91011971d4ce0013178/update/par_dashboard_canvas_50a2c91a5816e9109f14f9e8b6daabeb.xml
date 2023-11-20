@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
     <par_dashboard_canvas action="INSERT_OR_UPDATE">
         <dashboard display_value="Bill Report">5ca2c91a4416e910ce9e254f95839ce7</dashboard>
         <dashboard_tab/>
@@ -6,12 +6,14 @@
         <sys_class_name>par_dashboard_canvas</sys_class_name>
         <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
         <sys_created_on>2023-04-21 13:04:06</sys_created_on>
+        <sys_domain>global</sys_domain>
         <sys_id>50a2c91a5816e9109f14f9e8b6daabeb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_overrides/>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>par_dashboard_canvas_50a2c91a5816e9109f14f9e8b6daabeb</sys_update_name>
         <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
         <sys_updated_on>2023-04-21 13:04:06</sys_updated_on>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
     <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
         <includes/>
         <macroponent display_value="Home">d8a2c91a4516e910c9ac65915fedbced</macroponent>
         <name>Submit form</name>
@@ -15,6 +16,7 @@ function handler({ api, event, helpers, imports }) {
     updateTable(query);
   });
      
+     api.setState('hideform', true);
   
   const templateFields = `
     competitor_names=${competitor_columns.competitor}^
@@ -34,7 +36,7 @@ function handler({ api, event, helpers, imports }) {
 
   // Trigger save function
   // g_form.save();
-
+  // clearFormFields(g_form);
   // If the save event failed skip realoading and send error message
   // if (!areFieldsValid) return alert("critical", "Important: Please fill out all required fields indicated with an asterisk (*) before submitting.");
   alert("positive", "Your form was submited");
@@ -44,6 +46,13 @@ function handler({ api, event, helpers, imports }) {
 
   // Clean state
   clear();
+
+  function clearFormFields(form) {
+    var fields = form.getEditableFields();
+    fields.forEach(function(field) {
+      form.setValue(field, '');
+    });
+  }
 
    function createBillReportQuery(object, sys_id) {
     return Object.keys(object)
@@ -88,9 +97,10 @@ function handler({ api, event, helpers, imports }) {
 
   function clear() {
     api.setState("competitors_data", []);
-    // g_form.reload(); // Doesn't work.
-    api.setState("form_sys_id", null);
-  }
+    api.setState("form_sys_id", '-1');
+     api.setState('hideform', false);
+  g_form.reload(); // Doesn't work.
+    }
 }
 ]]></script>
         <script_api_version>2.0.0</script_api_version>
@@ -98,14 +108,14 @@ function handler({ api, event, helpers, imports }) {
         <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
         <sys_created_on>2023-04-24 14:09:38</sys_created_on>
         <sys_id>656ea057c3d2ad1011971d4ce0013172</sys_id>
-        <sys_mod_count>123</sys_mod_count>
+        <sys_mod_count>128</sys_mod_count>
         <sys_name>Submit form</sys_name>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_ux_client_script_656ea057c3d2ad1011971d4ce0013172</sys_update_name>
         <sys_updated_by>Milton.Jones@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-08-25 15:49:32</sys_updated_on>
+        <sys_updated_on>2023-09-08 20:04:47</sys_updated_on>
         <target>macroponent</target>
         <type>default</type>
     </sys_ux_client_script>

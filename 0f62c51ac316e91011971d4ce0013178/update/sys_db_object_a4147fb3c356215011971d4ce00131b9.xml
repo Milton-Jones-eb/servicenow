@@ -10,7 +10,7 @@
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
-        <label>Market Share-AOA Collection Report</label>
+        <label>Wallet Share Data Entry Tool Reports</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_ebh_bill_report_built_reports</name>
         <number_ref display_value="BUR">2c147fb3c356215011971d4ce00131e9</number_ref>
@@ -22,14 +22,14 @@
         <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
         <sys_created_on>2023-04-26 17:50:13</sys_created_on>
         <sys_id>a4147fb3c356215011971d4ce00131b9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Market Share-AOA Collection Report</sys_name>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Wallet Share Data Entry Tool Reports</sys_name>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_db_object_a4147fb3c356215011971d4ce00131b9</sys_update_name>
-        <sys_updated_by>roberto.garcia@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-04-29 15:57:17</sys_updated_on>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 12:46:19</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

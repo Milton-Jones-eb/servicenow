@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="126ad3a6470df110265ad698436d4388" sys_domain="global" table="x_ebh_bill_report_branch_hierarchy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>area_last_modified</element>
+            <position>0</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>region</element>
+            <position>1</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>eb6e52e447197110265ad698436d43a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>region_last_modified</element>
+            <position>2</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>ef6e52e447197110265ad698436d43a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>finance_division</element>
+            <position>3</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e36e52e447197110265ad698436d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>4</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>eb6e52e447197110265ad698436d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>finance_division_last_modified</element>
+            <position>6</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>ef6e52e447197110265ad698436d43a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accounting_unit</element>
+            <position>7</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e36e52e447197110265ad698436d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cda_futa</element>
+            <position>8</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cda_suta</element>
+            <position>9</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>eb6e52e447197110265ad698436d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>ef6e52e447197110265ad698436d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cda_wcmodifier</element>
+            <position>11</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e36e52e447197110265ad698436d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fica</element>
+            <position>12</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>medi</element>
+            <position>13</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>eb6e52e447197110265ad698436d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_id</element>
+            <position>14</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>ef6e52e447197110265ad698436d43a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e36e52e447197110265ad698436d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_name</element>
+            <position>16</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>crm_brand</element>
+            <position>17</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>eb6e52e447197110265ad698436d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>18</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>ef6e52e447197110265ad698436d43a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_line_1</element>
+            <position>19</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e36e52e447197110265ad698436d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_line_2</element>
+            <position>20</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_city</element>
+            <position>21</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>eb6e52e447197110265ad698436d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_state</element>
+            <position>22</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>ef6e52e447197110265ad698436d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>23</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e36e52e447197110265ad698436d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address_zip</element>
+            <position>24</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_last_modified</element>
+            <position>25</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>eb6e52e447197110265ad698436d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_active</element>
+            <position>26</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>ef6e52e447197110265ad698436d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>27</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e36e52e447197110265ad698436d43ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>area_name</element>
+            <position>28</position>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-12 12:24:10</sys_created_on>
+            <sys_id>e76e52e447197110265ad698436d43ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-12 12:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_number</element>
+            <position>29</position>
+            <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-13 17:56:56</sys_created_on>
+            <sys_id>3324f0454711f110265ad698436d4343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ebh_bill_report_branch_hierarchy" sys_domain="global" view="Default view">126ad3a6470df110265ad698436d4388</sys_ui_section>
+            <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-13 17:56:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_ebh_bill_report_branch_hierarchy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+            <sys_created_on>2023-09-06 11:38:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>126ad3a6470df110265ad698436d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ebh_bill_report_branch_hierarchy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
+            <sys_update_name>sys_ui_section_126ad3a6470df110265ad698436d4388</sys_update_name>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-06 11:38:23</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

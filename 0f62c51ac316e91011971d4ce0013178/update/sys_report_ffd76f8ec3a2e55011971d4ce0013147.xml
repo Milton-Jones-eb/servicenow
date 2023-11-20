@@ -46,7 +46,7 @@
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
-        <field_list>sys_created_on,bill_report_sys_id.account_client_name,bill_report_sys_id.account_number,bill_report_sys_id.account_type,bill_report_sys_id.user,bill_report_sys_id.market,bill_report_sys_id.area,bill_report_sys_id.city,bill_report_sys_id.region,bill_report_sys_id.branch,competitor,bill_report_sys_id.eb_aoa_count,competitor_aoa_count,bill_report_sys_id.u_total</field_list>
+        <field_list>sys_created_on,bill_report_sys_id.account_client_name,bill_report_sys_id.account_number,bill_report_sys_id.account_type,bill_report_sys_id.user,bill_report_sys_id.branch.branch_name,bill_report_sys_id.branch.finance_division,bill_report_sys_id.branch.region,bill_report_sys_id.branch.area_name,bill_report_sys_id.branch.address_city,competitor,bill_report_sys_id.eb_aoa_count,competitor_aoa_count,bill_report_sys_id.u_total</field_list>
         <filter/>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
@@ -106,14 +106,14 @@
         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
         <sys_created_on>2023-05-03 16:43:15</sys_created_on>
         <sys_id>ffd76f8ec3a2e55011971d4ce0013147</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Competitors AOA updated</sys_name>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_report_ffd76f8ec3a2e55011971d4ce0013147</sys_update_name>
-        <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-06-01 16:36:58</sys_updated_on>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-09-08 22:01:15</sys_updated_on>
         <table>x_ebh_bill_report_competitors_aoa</table>
         <title>Competitors AOA updated</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

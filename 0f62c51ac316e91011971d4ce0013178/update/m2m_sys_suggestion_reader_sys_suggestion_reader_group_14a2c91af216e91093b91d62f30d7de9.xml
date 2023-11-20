@@ -9,9 +9,9 @@
         <sys_id>14a2c91af216e91093b91d62f30d7de9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_suggestion_reader_group_id display_value="Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration">10a2c91a5116e9102f60ce6d168a16ea</sys_suggestion_reader_group_id>
         <sys_suggestion_reader_id display_value="Search Based Suggestion Reader">c41365e077020110be280d892c5a99f2</sys_suggestion_reader_id>
         <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_14a2c91af216e91093b91d62f30d7de9</sys_update_name>

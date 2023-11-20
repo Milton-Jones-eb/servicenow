@@ -19,17 +19,17 @@
         <scriptable_table>false</scriptable_table>
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_created_by>Mailia.Bachleitner@employbridge.com</sys_created_by>
-        <sys_created_on>2023-05-15 20:58:05</sys_created_on>
+        <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
+        <sys_created_on>2023-10-30 12:53:11</sys_created_on>
         <sys_id>a12c3c9f47166150265ad698436d4313</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_ebh_bill_report_revenueopportunityreport</sys_name>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_db_object_a12c3c9f47166150265ad698436d4313</sys_update_name>
-        <sys_updated_by>Mailia.Bachleitner@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-05-15 20:58:05</sys_updated_on>
+        <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-10-30 12:53:11</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_ebh_bill_report.revenueopportunityreport_user" name="x_ebh_bill_report.revenueopportunityreport_user">5bddf41347566150265ad698436d4343</user_role>
         <ws_access>true</ws_access>

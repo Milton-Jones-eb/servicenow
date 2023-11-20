@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="area_name" label="Area Name" language="en" table="x_ebh_bill_report_branch_hierarchy">
+    <sys_documentation element="area_name" label="Market / Area " language="en" table="x_ebh_bill_report_branch_hierarchy">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>area_name</element>
             <help/>
             <hint/>
-            <label>Area Name</label>
+            <label>Market / Area </label>
             <language>en</language>
             <name>x_ebh_bill_report_branch_hierarchy</name>
-            <plural>Area Names</plural>
+            <plural>Market / Area s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>khush.sultana@employbridge.com</sys_created_by>
             <sys_created_on>2023-08-23 20:36:14</sys_created_on>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Area Name</sys_name>
-            <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Market / Area </sys_name>
+            <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+            <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
             <sys_update_name>sys_documentation_x_ebh_bill_report_branch_hierarchy_area_name_en</sys_update_name>
-            <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
-            <sys_updated_on>2023-08-23 20:36:14</sys_updated_on>
+            <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
+            <sys_updated_on>2023-09-08 16:29:50</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

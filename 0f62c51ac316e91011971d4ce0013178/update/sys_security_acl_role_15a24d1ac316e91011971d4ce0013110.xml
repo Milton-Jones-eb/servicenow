@@ -6,9 +6,9 @@
         <sys_id>15a24d1ac316e91011971d4ce0013110</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x.ebh.bill-report.*.x_ebh_bill_report.admin</sys_name>
-        <sys_package display_value="Market Share and AOA Collection" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Market Share and AOA Collection">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_security_acl display_value="x.ebh.bill-report.*">d0a2c91a3116e910e69d1d6ef76f2aef</sys_security_acl>
         <sys_update_name>sys_security_acl_role_15a24d1ac316e91011971d4ce0013110</sys_update_name>
         <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
