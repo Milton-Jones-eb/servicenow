@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-11-20 20:48:25">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-11-22 15:32:23">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -38,7 +38,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:54:45</sys_created_on>
                         <sys_id>11faf911c323ed1011971d4ce0013171</sys_id>
@@ -49,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:54:45</sys_created_on>
                         <sys_id>19faf911c323ed1011971d4ce0013171</sys_id>
@@ -60,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:54:45</sys_created_on>
                         <sys_id>55faf911c323ed1011971d4ce0013171</sys_id>
@@ -71,7 +71,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>7194a1e747ef6510265ad698436d4327</sys_id>
@@ -82,7 +82,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>7194a1e747ef6510265ad698436d4328</sys_id>
@@ -93,7 +93,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>7594a1e747ef6510265ad698436d4327</sys_id>
@@ -104,7 +104,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>7994a1e747ef6510265ad698436d4326</sys_id>
@@ -115,7 +115,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>7994a1e747ef6510265ad698436d4327</sys_id>
@@ -126,7 +126,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>7d94a1e747ef6510265ad698436d4326</sys_id>
@@ -137,7 +137,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>7d94a1e747ef6510265ad698436d4327</sys_id>
@@ -148,7 +148,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>type</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:54:45</sys_created_on>
                         <sys_id>9dfaf911c323ed1011971d4ce0013171</sys_id>
@@ -159,7 +159,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 06-19-2023 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
+                        <portal_section display_value="Created 2023-06-19 12:54:45">9dfaf911c323ed1011971d4ce0013170</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-26 16:03:22</sys_created_on>
                         <sys_id>fd946da747ef6510265ad698436d4324</sys_id>
@@ -184,7 +184,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_publish</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>05ecae50c3e32d1011971d4ce001317e</sys_id>
@@ -195,7 +195,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>34ecae50c3e32d1011971d4ce001317d</sys_id>
@@ -206,7 +206,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>41ecae50c3e32d1011971d4ce001317e</sys_id>
@@ -217,7 +217,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>is_using_database_view</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>49ecae50c3e32d1011971d4ce001317f</sys_id>
@@ -228,7 +228,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>4decae50c3e32d1011971d4ce001317e</sys_id>
@@ -239,7 +239,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>89ecae50c3e32d1011971d4ce001317e</sys_id>
@@ -250,7 +250,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>a30b7151c323ed1011971d4ce00131ee</sys_id>
@@ -261,7 +261,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>subscriber_widget</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>a30b7151c323ed1011971d4ce00131ef</sys_id>
@@ -272,7 +272,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>a70b7151c323ed1011971d4ce00131ee</sys_id>
@@ -283,7 +283,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>filter_indicator</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>a70b7151c323ed1011971d4ce00131ef</sys_id>
@@ -294,7 +294,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_border</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>ab0b7151c323ed1011971d4ce00131ee</sys_id>
@@ -305,7 +305,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>real_time</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>ab0b7151c323ed1011971d4ce00131ef</sys_id>
@@ -316,7 +316,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>af0b7151c323ed1011971d4ce00131ed</sys_id>
@@ -327,7 +327,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>publisher_widget</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-19 17:55:11</sys_created_on>
                         <sys_id>af0b7151c323ed1011971d4ce00131ee</sys_id>
@@ -338,7 +338,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>bcecae50c3e32d1011971d4ce001317d</sys_id>
@@ -349,7 +349,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 06-16-2023 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
+                        <portal_section display_value="Created 2023-06-16 13:58:59">bcecae50c3e32d1011971d4ce001317c</portal_section>
                         <sys_created_by>mohammad.raza@employbridge.com</sys_created_by>
                         <sys_created_on>2023-06-16 18:58:59</sys_created_on>
                         <sys_id>c5ecae50c3e32d1011971d4ce001317e</sys_id>

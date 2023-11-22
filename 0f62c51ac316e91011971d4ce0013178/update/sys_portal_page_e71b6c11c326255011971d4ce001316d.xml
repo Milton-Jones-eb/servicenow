@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-11-20 20:48:31">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-11-22 15:32:29">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -38,7 +38,7 @@
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
-                        <portal_section display_value="Created 04-30-2023 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
+                        <portal_section display_value="Created 2023-04-30 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
                         <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
                         <sys_created_on>2023-04-30 19:03:39</sys_created_on>
                         <sys_id>0f3b2051c326255011971d4ce0013112</sys_id>
@@ -49,7 +49,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
-                        <portal_section display_value="Created 04-30-2023 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
+                        <portal_section display_value="Created 2023-04-30 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
                         <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
                         <sys_created_on>2023-04-30 19:03:39</sys_created_on>
                         <sys_id>4b3b2051c326255011971d4ce0013112</sys_id>
@@ -60,7 +60,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
-                        <portal_section display_value="Created 04-30-2023 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
+                        <portal_section display_value="Created 2023-04-30 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
                         <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
                         <sys_created_on>2023-04-30 19:03:39</sys_created_on>
                         <sys_id>4f3b2051c326255011971d4ce0013111</sys_id>
@@ -71,7 +71,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
-                        <portal_section display_value="Created 04-30-2023 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
+                        <portal_section display_value="Created 2023-04-30 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
                         <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
                         <sys_created_on>2023-04-30 19:03:39</sys_created_on>
                         <sys_id>833b2051c326255011971d4ce0013113</sys_id>
@@ -82,7 +82,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
-                        <portal_section display_value="Created 04-30-2023 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
+                        <portal_section display_value="Created 2023-04-30 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
                         <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
                         <sys_created_on>2023-04-30 19:03:39</sys_created_on>
                         <sys_id>873b2051c326255011971d4ce0013112</sys_id>
@@ -93,7 +93,7 @@
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
-                        <portal_section display_value="Created 04-30-2023 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
+                        <portal_section display_value="Created 2023-04-30 14:03:39">0f3b20ddc3e2255011971d4ce0013157</portal_section>
                         <sys_created_by>roberto.garcia@employbridge.com</sys_created_by>
                         <sys_created_on>2023-04-30 19:03:39</sys_created_on>
                         <sys_id>cf3b2051c326255011971d4ce0013112</sys_id>
