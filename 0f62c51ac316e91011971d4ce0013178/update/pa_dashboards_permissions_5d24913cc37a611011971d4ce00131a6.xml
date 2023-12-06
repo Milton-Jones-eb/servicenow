@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
     <pa_dashboards_permissions action="INSERT_OR_UPDATE">
-        <dashboard display_value="AOA Dashboard">28de5ea0c366a15011971d4ce001317c</dashboard>
+        <dashboard display_value="Wallet Share Data Entry Tool Dashboard">28de5ea0c366a15011971d4ce001317c</dashboard>
         <delete>false</delete>
         <group display_value="SG-DEV-Market Share-AOA Collection Tool Admin" name="SG-DEV-Market Share-AOA Collection Tool Admin">b39901fc47fa2510265ad698436d4359</group>
         <identity>b39901fc47fa2510265ad698436d4359</identity>

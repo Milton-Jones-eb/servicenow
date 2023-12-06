@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
     <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
-        <dashboard display_value="AOA Dashboard">28de5ea0c366a15011971d4ce001317c</dashboard>
+        <dashboard display_value="Wallet Share Data Entry Tool Dashboard">28de5ea0c366a15011971d4ce001317c</dashboard>
         <home>false</home>
         <homepage/>
         <order>1</order>

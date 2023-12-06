@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
     <sys_report_source action="INSERT_OR_UPDATE">
         <description/>
-        <display>AOACompetitorsSource (Competitors AOA)</display>
+        <display>AOACompetitorsSource (Wallet Share Competitor AOAs)</display>
         <filter/>
         <name>AOACompetitorsSource</name>
         <sys_class_name>sys_report_source</sys_class_name>

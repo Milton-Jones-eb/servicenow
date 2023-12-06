@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="feb5a15ec396e91011971d4ce00131af" label="Competitors AOA" max_length="40" name="x_ebh_bill_report_competitors_aoa" type="collection">
+    <element db_object_id="feb5a15ec396e91011971d4ce00131af" label="Wallet Share Competitor AOAs" max_length="40" name="x_ebh_bill_report_competitors_aoa" type="collection">
         <element label="Bill Report Sys ID" max_length="32" name="bill_report_sys_id" reference="x_ebh_bill_report_built_reports" type="reference"/>
         <element choice="1" choice_field="coi_competitors" choice_table="x_ebh_bill_report_bill_reports" label="Competitor Name" max_length="40" name="competitor" type="string">
             <choice/>
