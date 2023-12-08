@@ -15,7 +15,7 @@
         <name/>
         <order>200</order>
         <override_menu_roles>true</override_menu_roles>
-        <query>https://employbridgedev.service-now.com/x_ebh_bill_report_competitors_aoa_list.do</query>
+        <query>/x_ebh_bill_report_competitors_aoa_list.do</query>
         <report/>
         <roles>x_ebh_bill_report.admin,EB_ServiceNow_HIAdmin,admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1dab2dcec3df251011971d4ce001316b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Wallet Share Competitor AOA Table</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_app_module_1dab2dcec3df251011971d4ce001316b</sys_update_name>
         <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-10-30 12:38:02</sys_updated_on>
+        <sys_updated_on>2023-12-08 15:50:40</sys_updated_on>
         <timeline_page/>
         <title>Wallet Share Competitor AOA Table</title>
         <uncancelable>false</uncancelable>

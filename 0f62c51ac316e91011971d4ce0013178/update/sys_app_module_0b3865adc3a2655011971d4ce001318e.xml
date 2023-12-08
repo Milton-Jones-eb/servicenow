@@ -15,7 +15,7 @@
         <name/>
         <order>100</order>
         <override_menu_roles>true</override_menu_roles>
-        <query>https://employbridgedev.service-now.com/x/ebh/WalletShare-collection/MS-AOA</query>
+        <query>/x/ebh/marketshare-aoacollection/MS-AOA</query>
         <report/>
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0b3865adc3a2655011971d4ce001318e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Wallet Share Data Entry Tool</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
         <sys_update_name>sys_app_module_0b3865adc3a2655011971d4ce001318e</sys_update_name>
         <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-10-30 12:08:42</sys_updated_on>
+        <sys_updated_on>2023-12-08 15:50:19</sys_updated_on>
         <timeline_page/>
         <title>Wallet Share Data Entry Tool</title>
         <uncancelable>false</uncancelable>
