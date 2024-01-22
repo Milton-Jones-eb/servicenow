@@ -14,6 +14,5 @@
         <sys_updated_by>khush.sultana@employbridge.com</sys_updated_by>
         <sys_updated_on>2023-08-29 19:42:56</sys_updated_on>
         <sys_user_role display_value="x_ebh_bill_report.branch_workato_snowflake_staging_user" name="x_ebh_bill_report.branch_workato_snowflake_staging_user">529cf3c8c3c1315011971d4ce00131b1</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

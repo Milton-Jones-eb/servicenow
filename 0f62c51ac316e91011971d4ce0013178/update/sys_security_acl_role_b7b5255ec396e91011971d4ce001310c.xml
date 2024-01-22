@@ -14,6 +14,5 @@
         <sys_updated_by>bryan.rodriguez@employbridge.com</sys_updated_by>
         <sys_updated_on>2023-04-21 15:37:31</sys_updated_on>
         <sys_user_role display_value="x_ebh_bill_report.user" name="x_ebh_bill_report.user">c762c51ac316e91011971d4ce0013191</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

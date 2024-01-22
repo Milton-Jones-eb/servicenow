@@ -23,7 +23,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>This app is to collect AOA metrics for accounts</short_description>
         <source>x_ebh_bill_report</source>
-        <store_correlation_id>REPOAPP0001113955</store_correlation_id>
+        <store_correlation_id>REPOAPP0001159922</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -31,16 +31,16 @@
         <sys_created_by>bryan.rodriguez@employbridge.com</sys_created_by>
         <sys_created_on>2023-04-21 13:03:11</sys_created_on>
         <sys_id>0f62c51ac316e91011971d4ce0013178</sys_id>
-        <sys_mod_count>61</sys_mod_count>
+        <sys_mod_count>63</sys_mod_count>
         <sys_updated_by>mohammad.raza@employbridge.com</sys_updated_by>
-        <sys_updated_on>2023-12-08 17:44:57</sys_updated_on>
+        <sys_updated_on>2024-01-22 20:51:09</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.26</version>
+        <version>1.0.27</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=0f62c51ac316e91011971d4ce0013178"/>
     <sys_attachment action="INSERT_OR_UPDATE">

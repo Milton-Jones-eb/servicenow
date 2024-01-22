@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>other</category>
+        <css>section.page {
+	background-color: $sp-homepage-bg;
+}
+section.page, main.body {
+    padding-top: 0px !important;
+}
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>copy_of_lp_hp_2</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>robert.murphy@employbridge.com</sys_created_by>
+        <sys_created_on>2023-12-18 19:21:45</sys_created_on>
+        <sys_id>9230637bc347751011971d4ce0013138</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_lp_hp_2</sys_name>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_update_name>sp_page_9230637bc347751011971d4ce0013138</sys_update_name>
+        <sys_updated_by>robert.murphy@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-12-18 19:21:45</sys_updated_on>
+        <title>Copy of Launch Pad Home Page (2)</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=9230637bc347751011971d4ce0013138"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</application>
+        <file_path/>
+        <instance_id>83ce67badb169190b847ac44d4961903</instance_id>
+        <instance_name>employbridgedev</instance_name>
+        <name>sp_page_9230637bc347751011971d4ce0013138</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>other</category><css>section.page {
+	background-color: $sp-homepage-bg;
+}
+section.page, main.body {
+    padding-top: 0px !important;
+}
+</css><draft>false</draft><dynamic_title_structure/><human_readable_url_structure/><id>copy_of_lp_hp_2</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>robert.murphy@employbridge.com</sys_created_by><sys_created_on>2023-12-18 19:21:45</sys_created_on><sys_id>9230637bc347751011971d4ce0013138</sys_id><sys_mod_count>0</sys_mod_count><sys_name>copy_of_lp_hp_2</sys_name><sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package><sys_policy/><sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope><sys_update_name>sp_page_9230637bc347751011971d4ce0013138</sys_update_name><sys_updated_by>robert.murphy@employbridge.com</sys_updated_by><sys_updated_on>2023-12-18 19:21:45</sys_updated_on><title>Copy of Launch Pad Home Page (2)</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=9230637bc347751011971d4ce0013138"/></record_update>]]></payload>
+        <payload_hash>367323901</payload_hash>
+        <record_name>copy_of_lp_hp_2</record_name>
+        <reverted_from/>
+        <source>3952bedd478f7510265ad698436d4378</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>robert.murphy@employbridge.com</sys_created_by>
+        <sys_created_on>2023-12-18 19:21:45</sys_created_on>
+        <sys_id>5630637bc347751011971d4ce001313b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c7e608cf40000001</sys_recorded_at>
+        <sys_updated_by>robert.murphy@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-12-18 19:21:45</sys_updated_on>
+        <type>Page</type>
+        <update_guid>5a30637ba4477510e13c75bae145f73a</update_guid>
+        <update_guid_history>5a30637ba4477510e13c75bae145f73a:367323901</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="copy_of_lp_hp_2">c7be4c0cc31b751011971d4ce001314d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>robert.murphy@employbridge.com</sys_created_by>
+        <sys_created_on>2023-12-18 22:44:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>209685e394e541adb5cf87083efeca21</sys_id>
+        <sys_metadata>9230637bc347751011971d4ce0013138</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_lp_hp_2</sys_name>
+        <sys_package display_value="Wallet Share Data Entry Tool" source="x_ebh_bill_report">0f62c51ac316e91011971d4ce0013178</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wallet Share Data Entry Tool">0f62c51ac316e91011971d4ce0013178</sys_scope>
+        <sys_scope_delete display_value="">017aabf458224c5283601bb63d072364</sys_scope_delete>
+        <sys_update_name>sp_page_9230637bc347751011971d4ce0013138</sys_update_name>
+        <sys_update_version display_value="sp_page_9230637bc347751011971d4ce0013138">5630637bc347751011971d4ce001313b</sys_update_version>
+        <sys_updated_by>robert.murphy@employbridge.com</sys_updated_by>
+        <sys_updated_on>2023-12-18 22:44:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
